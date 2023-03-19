@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>PJSK MUSIC QUIZ</title>
+		<meta name="description" content="Project Sekai Music Quiz!">
+    	<meta name="keywords" content="The85thLetter, Project Sekai">
+
+    	<!-- <link rel="icon" href="favicon.ico" type="image/x-icon"> -->
+
+    	<link rel="stylesheet" href="style.css"/>
+		
+		<meta charset="utf-8" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<!-- <script src="https://requirejs.org/docs/release/2.3.6/r.js"></script> -->
+	</head>
+	<body>
+		<!-- <script src="header.js"></script> -->
+		
+		<div id="content">
+			<div id="panels">
+				<div id="songReveal" class="reveal"></div>
+				<div id="statReveal" class="reveal"></div>
+				<div id="songPanel" class="panel">
+					<h1>Last Song Info:</h1>
+					<p>Song ID: <span id="songPanelId">-</span></p>
+					<p>Titles: <span id="songPanelTitle">-</span></p>
+					<p>Groups: <span id="songPanelBand">-</span></p>
+					<p>Servers: <span id="songPanelServer">-</span></p>
+					<p>Difficulties: <span id="songPanelDifficulty">-</span></p>
+					<p>Categories: <span id="songPanelCategory">-</span></p>
+					<p>Length: <span id="songPanelTime">-</span></p>
+					<p>Arranger: <span id="songPanelArranger">-</span></p>
+					<p>Composer: <span id="songPanelComposer">-</span></p>
+					<p>Lyricist: <span id="songPanelLyricist">-</span></p>
+					<p>Dance Members: <span id="songPanelDance">-</span></p>
+					<h1>Cover Info:</h1>
+					<p>Title: <span id="songPanelATitle">-</span></p>
+					<p>Version: <span id="songPanelAVersion">-</span></p>
+					<p>Singers: <span id="songPanelASinger">-</span></p>
+				</div>
+				<div id="statPanel" class="panel">
+				</div>	
+			</div>
+			
+			<div id="startScreen">
+				Volume <input type="range" id="songVolumePre" value="5"><br/>
+
+				<button id="startButton">START</button>
+
+				<div class="menu">
+					<div class="menuRow">
+						<div>
+							<h1>Gameplay:</h1>
+							Song Number <input type="number" id="numberOfSongs" min="1" value="5" style="width: 3em;"><br/>
+							Guess Time 1 <input type="range" id="guessTime" min="1" max="60" value="20"> 60<br/>
+							Random Sample <input type="checkbox" id="randomSample" checked><br/>
+						</div>
+						<div>
+							<h1>Filtering Settings:</h1>
+							Duplicate Songs <input type="checkbox" id="duplicates"><br/>
+							Filter Covers by Vocals <input type="checkbox" id="filterCoversBySingers"><br/>
+							Match All Bands <input type="checkbox" id="matchAllBands"><br/>
+							Match All Singers <input type="checkbox" id="matchAllSingers"><br/>
+						</div>
+					</div>
+					<hr>
+					<div class="menuRow">
+						<div>
+							<div>
+								<h1>Song Selection:</h1>
+								<div class="menuOptionPanel">
+									<input type="checkbox" id="serverEN" checked> EN Songs<br/>
+									<input type="checkbox" id="serverJP"> JP Songs<br/>
+									<input type="checkbox" id="versionVSingersOn" checked> VSINGER Versions<br/>
+									<input type="checkbox" id="versionSekaiOn" checked> SEKAI Versions<br/>
+									<input type="checkbox" id="versionCoversOn" checked> Covers<br/>
+									<input type="checkbox" id="versionInst" checked> Instrumental Songs<br/>
+									<input type="checkbox" id="versionSpecial"> Special Versions<br/>
+								</div>
+							</div>
+							<div>
+								<h1>Bands:</h1>
+								<div id="menuBands">
+									<div>
+										<img src="https://sekai.best/images/en/logol_outline/logo_piapro.png" class="selectIcon"/>
+										<input type="checkbox" id="bandVS" class="band" checked>
+									</div>
+									<div>
+										<img src="https://sekai.best/images/en/logol_outline/logo_light_sound.png" class="selectIcon"/>
+										<input type="checkbox" id="bandLN" class="band" checked>
+									</div>
+									<div>
+										<img src="https://sekai.best/images/en/logol_outline/logo_idol.png" class="selectIcon"/>
+										<input type="checkbox" id="bandMMJ" class="band" checked>
+									</div>
+									<div>
+										<img src="https://sekai.best/images/en/logol_outline/logo_street.png" class="selectIcon"/>
+										<input type="checkbox" id="bandVBS" class="band" checked>
+									</div>
+									<div>
+										<img src="https://sekai.best/images/en/logol_outline/logo_theme_park.png" class="selectIcon"/>
+										<input type="checkbox" id="bandWXS" class="band" checked>
+									</div>
+									<div>
+										<img src="https://sekai.best/images/en/logol_outline/logo_school_refusal.png" class="selectIcon"/>
+										<input type="checkbox" id="band25JI" class="band" checked>
+									</div>
+									<div>
+										Other
+										<input type="checkbox" id="bandOther" class="band" checked>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div>
+							<div>
+								<h1>Vocals:</h1>
+								Check All: <input type="checkbox" id="vocalAll" checked>
+								<div>
+									<img src="https://sekai.best/assets/chr_ts_21.024fabcc.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalMiku" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_22.4ab35893.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalRin" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_23.e342f1b7.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalLen" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_24.5b4a2497.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalLuka" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_25.83d109af.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalMeiko" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_26.ce9e612d.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalKaito" class="vocal" checked>
+								</div>
+								<div>
+									<img src="https://sekai.best/assets/chr_ts_1.401e8301.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalIchika" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_2.6d1e40cf.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalSaki" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_3.176d81e8.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalHonami" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_4.5caf27c5.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalShiho" class="vocal" checked>
+								</div>
+								<div>
+									<img src="https://sekai.best/assets/chr_ts_5.3568c1d2.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalMinori" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_6.6409abaa.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalHaruka" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_7.59adc6cf.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalAiri" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_8.503f2eda.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalShizuku" class="vocal" checked>
+								</div>
+								<div>
+									<img src="https://sekai.best/assets/chr_ts_9.fad2bcfb.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalKohane" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_10.1375c978.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalAn" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_11.a0613678.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalAkito" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_12.74f77746.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalToya" class="vocal" checked>
+								</div>
+								<div>
+									<img src="https://sekai.best/assets/chr_ts_13.003213bc.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalTsukasa" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_14.38de5874.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalEmu" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_15.06a049a5.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalNene" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_16.00b69576.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalRui" class="vocal" checked>
+								</div>
+								<div>
+									<img src="https://sekai.best/assets/chr_ts_17.a0cc7f22.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalKanade" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_18.dc5229c5.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalMafuyu" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_19.1457130a.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalEna" class="vocal" checked>
+									<img src="https://sekai.best/assets/chr_ts_20.999eb43d.png" class="selectIcon"/>
+									<input type="checkbox" id="vocalMizuki" class="vocal" checked>
+								</div>
+								Other Vocals: <input type="checkbox" id="vocalOther" class="vocal" checked>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div id="gameScreen" hidden>
+				<!-- <audio id="songAudio" src=""></audio> -->
+				Volume <input type="range" id="songVolume" value="5">
+				
+				<p>Song Number: <span id="songNumber"></span></p>
+				<h1 id="phaseGuess">Guessing Time</h1>
+				<h1 id="phaseReveal" hidden>Song Title: <span id="songTitle"></span></h1>
+				<h1 id="phaseEnd" hidden>Final Score <span id="finalScore"></span></h1>
+				<div>
+					<div id="imageWrapper">
+						<img id="songImage" src="">
+					</div>
+				</div>
+				<div id="gameInterface">
+					<input id="playerGuess" list="songList" placeholder="Enter song name">
+					<datalist id="songList"></datalist>
+					<h1 id="countdown">0</h1>
+					<button id="playerPause">Pause</button><br/>
+					<button id="playerBack">To Lobby</button>
+					<button id="playerSkip">Skip Phase</button>
+				</div>
+				<div id="endInterface" hidden>
+					<h1 id="endRank">D</h1>
+				</div>
+
+				<p id="scoreText">Score: <span id="playerScore">0</span></p>
+			</div>
+		</div>
+
+		<!-- <script src="footer.js"></script> -->
+
+		<script src="songs.js"></script>
+		<script src="script.js"></script>
+	</body>
+</html>

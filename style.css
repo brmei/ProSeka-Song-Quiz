@@ -1,0 +1,165 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 125%;
+    vertical-align: baseline;
+    background: transparent;
+} */
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    /* overflow: hidden; */
+    text-align: center;
+    line-height: 175%;
+    font-family: 'Mono', sans-serif;
+    color: #cdcdd7;
+    background-color: #111113;
+}
+
+div {
+    padding: 5px;
+}
+
+.panel {
+    position: absolute;
+    width: 20%;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 1em;
+    text-align: left;
+    background-color: #1f2122;
+    transition: all 0s ease-in-out;
+    overflow-y: auto;
+}
+
+.reveal {
+    position: absolute;
+    height: 64px;
+    width: 32px;
+    box-sizing: border-box;
+    border: 1px white solid;
+    background-color: #1f2122;
+    transition: all 0s ease-in-out;
+}
+
+.reveal:hover {
+    background-color: #595e60;
+}
+
+.menu {
+    width: 40em;
+    margin: 40px;
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+    background-color: #1f2122;
+}
+
+.menuRow {
+    display: flex;
+    flex-direction: row;
+}
+
+.menuRow > div {
+    width: 50%;
+    padding: 0.5em;
+}
+
+.menuRow > div > div{
+    text-align: center;
+    align-items: center;
+}
+
+.menuOptionPanel {
+    text-align: left;
+    min-width: 0px;
+}
+
+.selectIcon {
+    max-height: 2em;
+    vertical-align: middle;
+    margin: 0.1em;
+}
+
+#content {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    overflow: hidden;
+}
+
+#panels {
+    position: relative;
+}
+
+#songReveal {
+    top: 0;
+    left: 0;
+    border-left: 0px;
+}
+
+#statReveal {
+    top: 0;
+    right: 0;
+    border-right: 0px;
+}
+
+#songPanel {
+    top: 0;
+    left: 0;
+    border-right: 1px white solid;
+}
+
+#statPanel {
+    top: 0;
+    right: 0;
+    border-left: 1px white solid;
+}
+
+#statPanel > p {
+    margin: 0;
+}
+
+#startScreen {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    overflow-y: auto;
+    height: 100%;
+}
+
+#menuBands > div {
+    display: inline-block
+}
+
+#startButton {
+    color: #cdcdd7;
+    background-color: #111113;
+    font-size: 250%;
+    padding: 0.5em;
+    border: 1px white solid;
+    border-radius: 20px;
+}
+
+#startButton:hover {
+    background-color: #595e60;
+}
+
+#songImage {
+    height: 20em;
+    width: 20em;
+}
+
+#playerGuess {
+    font-size: 100%;
+    width: 20em;
+}
