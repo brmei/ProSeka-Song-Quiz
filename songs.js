@@ -7443,7 +7443,7 @@ var songs = [
         "id": 198,
         "title": ["グッバイ宣言", "Gubbai Sengen", "Goodbye Declaration"],
         "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 26, 30],
         "category": ["Static Image"],
         "time": 126.4,
@@ -8147,7 +8147,7 @@ var songs = [
         "id": 213,
         "title": ["ヴァンパイア", "Banpaia", "The Vampire"],
         "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [7, 12, 18, 25, 29],
         "category": ["3D MV", "2D MV"],
         "time": 141.6,
@@ -12120,6 +12120,38 @@ var songs = [
         ]
     },
     {
+        "id": 346,
+        "title": ["嗚呼、素晴らしきニャン生", "Aa, Subarashiki Nyansei"],
+        "bands": ["Wonderlands x Showtime"],
+        "server": ["JP"],
+        "difficulties": [8, 13, 18, 24, 29],
+        "category": ["Original MV"],
+        "time": 150.1,
+        "arranger": "Nem",
+        "composer": "Nem",
+        "lyricist": "Nem",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_346_rip/jacket_s_346.webp",
+        "audio": [
+            {
+                "title": "Aa, Subarashiki Nyansei (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Kagamine Len", "GUMI"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/6/62/Aa%2C_Subarashiki_Nyansei_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230612062835"
+                ]
+            },
+            {
+                "title": "Aa, Subarashiki Nyansei (Game Version - Wonderlands x Showtime)",
+                "version": "SEKAI",
+                "singers": ["Kagamine Len", "Tenma Tsukasa", "Otori Emu", "Kusanagi Nene", "Kamishiro Rui"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/9/95/Aa%2C_Subarashiki_Nyansei_%28Game_Version_-_Wonderlands_x_Showtime%29.ogg/revision/latest?cb=20230612062852"
+                ]
+            }
+        ]
+    },
+    {
         "id": 347,
         "title": ["円尾坂の仕立屋", "Enbizaka no Shitateya"],
         "bands": ["VIRTUAL SINGER"],
@@ -12443,6 +12475,70 @@ var songs = [
                 "singers": ["Hatsune Miku", "Kagamine Rin", "Kagamine Len", "Megurine Luka", "MEIKO", "KAITO"],
                 "links": [
                     "https://static.wikia.nocookie.net/projectsekai/images/1/1d/Jinsei_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230602062627"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 373,
+        "title": ["下剋上", "Gekokujou"],
+        "bands": ["Vivid BAD SQUAD"],
+        "server": ["JP"],
+        "difficulties": [8, 12, 18, 24, 30],
+        "category": ["2D MV"],
+        "time": 155.2,
+        "arranger": "Misumi",
+        "composer": "Misumi",
+        "lyricist": "Misumi",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_373_rip/jacket_s_373.webp",
+        "audio": [
+            {
+                "title": "Gekokujou (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["KAFU"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/8/86/Gekokujou_%28Game_Version_-_VIRTUAL_SINGER%29.mp3/revision/latest?cb=20230610111511"
+                ]
+            },
+            {
+                "title": "Gekokujou (Game Version - Vivid BAD SQUAD)",
+                "version": "SEKAI",
+                "singers": ["Kagamine Rin", "Azusawa Kohane", "Shiraishi An", "Shinonome Akito", "Aoyagi Toya"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/a/a8/Gekokujou_%28Game_Version_-_VIVID_BAD_SQUAD%29.mp3/revision/latest?cb=20230610111609"
+                ]
+            },
+            {
+                "title": "Gekokujou (Menu Instrumental)",
+                "version": "Special",
+                "singers": [],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/1/10/Event_097_bgm.ogg/revision/latest?cb=20230610174123"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 380,
+        "title": ["スターダストメドレー", "Sutaadasuto Medoree"],
+        "bands": ["VIRTUAL SINGER"],
+        "server": ["JP"],
+        "difficulties": [7, 13, 20, 26, 30],
+        "category": ["Static Image"],
+        "time": 143.3,
+        "arranger": "Kisara",
+        "composer": "Kisara",
+        "lyricist": "Kisara",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_380_rip/jacket_s_380.webp",
+        "audio": [
+            {
+                "title": "Stardust Medley (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Hatsune Miku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/9/98/Stardust_Medley_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230616070828"
                 ]
             }
         ]
