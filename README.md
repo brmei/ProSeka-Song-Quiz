@@ -1,6 +1,4 @@
 # Proseka Song Quiz!
-<sup>developed by <a href="https://github.com/The85thLetter">The85thLetter</a> and <a>DDia</a></sup>
-
 <a>ProSeka Song Quiz</a> is a game that allows players to test their song knowledge of Project Sekai. It is modeled after <a href="https://animemusicquiz.com/">AMQ</a>, adding more customization features specifically around ProSeka.
 
 All the code runs locally, but the assets are grabbed directly from other websites. This means this game will not work offline unless the database is updated to reference local files. If anyone wants to do that, feel free. Just update the information in songs.js.
@@ -87,9 +85,3 @@ Addition of cleaner UI and quality of life features:
 - Bug Fixes:
     - Gameplay proceeds even when no songs are found
     - Some song information is corrected
-# Contact
-## The85thLetter
-
-<u>Email</u>: The85thLetter@gmail.com
-
-<u>Discord</u>: The85thLetter#9504
