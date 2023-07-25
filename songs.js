@@ -8099,7 +8099,7 @@ var songs = [
         "id": 212,
         "title": ["星空のメロディー", "Hoshizora no Merodii", "Starry sky melody"],
         "bands": ["Wonderlands x Showtime"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [5, 11, 16, 24, 27],
         "category": ["3D MV"],
         "time": 108.3,
@@ -8265,9 +8265,9 @@ var songs = [
     },
     {
         "id": 217,
-        "title": ["街", "Machi", "Town"],
+        "title": ["街", "Machi", "City"],
         "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [6, 12, 16, 23, 27],
         "category": ["3D MV"],
         "time": 102.7,
@@ -8313,9 +8313,9 @@ var songs = [
     },
     {
         "id": 218,
-        "title": ["メリュー", "Meryuu"],
+        "title": ["メリュー", "Meryuu", "Meru"],
         "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [6, 11, 15, 22, 26],
         "category": ["3D MV"],
         "time": 140.4,
@@ -8659,7 +8659,7 @@ var songs = [
         "id": 229,
         "title": ["脳漿炸裂ガール", "Noushou Sakuretsu Girl", "Brain Fluid Explosion Girl"],
         "bands": ["VIRTUAL SINGER"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [7, 13, 18, 28, 32],
         "category": ["Original MV"],
         "time": 144.5,
@@ -9369,9 +9369,9 @@ var songs = [
     },
     {
         "id": 246,
-        "title": ["エイリアンエイリアン", "Eirian Eirian"],
+        "title": ["エイリアンエイリアン", "Eirian Eirian", "Alien Alien"],
         "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [7, 12, 18, 25, 29],
         "category": ["Static Image"],
         "time": 143.8,
@@ -9497,9 +9497,9 @@ var songs = [
     },
     {
         "id": 249,
-        "title": ["ぼくらの16bit戦争", "Bokura no 16bit Sensou"],
+        "title": ["ぼくらの16bit戦争", "Bokura no 16bit Sensou", "Our 16bit Wars"],
         "bands": ["VIRTUAL SINGER"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [6, 13, 17, 28, 33],
         "category": ["Original MV"],
         "time": 148.4,
@@ -9641,9 +9641,9 @@ var songs = [
     },
     {
         "id": 254,
-        "title": ["未完成讃歌", "Mikansei Sanka"],
+        "title": ["未完成讃歌", "Mikansei Sanka", "Incomplete Anthem"],
         "bands": ["VIRTUAL SINGER"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [8, 12, 18, 27, 31],
         "category": ["Static Image"],
         "time": 156.4,
@@ -9737,9 +9737,9 @@ var songs = [
     },
     {
         "id": 257,
-        "title": ["てらてら", "Teratera"],
+        "title": ["てらてら", "Teratera", "SHOW OFF"],
         "bands": ["VIRTUAL SINGER", "Leo/need"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [8, 13, 18, 24, 30],
         "category": ["2D MV"],
         "time": 135.9,
@@ -11344,6 +11344,30 @@ var songs = [
         ]
     },
     {
+        "id": 309,
+        "title": ["Afterglow"],
+        "bands": ["VIRTUAL SINGER"],
+        "server": ["JP"],
+        "difficulties": [8, 11, 16, 23, 27],
+        "category": ["3D MV"],
+        "time": 147,
+        "arranger": "-",
+        "composer": "JimmyThumb-P",
+        "lyricist": "JimmyThumb-P",
+        "dance members": ["Megurine Luka"],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_309_rip/jacket_s_309.webp",
+        "audio": [
+            {
+                "title": "Afterglow (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Megurine Luka"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/d/df/Afterglow_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230707065017"
+                ]
+            }
+        ]
+    },
+    {
         "id": 310,
         "title": ["Flyway"],
         "bands": ["Leo/need"],
@@ -12072,6 +12096,70 @@ var songs = [
         ]
     },
     {
+        "id": 339,
+        "title": ["glow"],
+        "bands": ["Leo/need"],
+        "server": ["JP"],
+        "difficulties": [5, 11, 17, 22, 27],
+        "category": ["3D MV"],
+        "time": 159,
+        "arranger": "keeno",
+        "composer": "keeno",
+        "lyricist": "keeno",
+        "dance members": ["Hatsune Miku", "Hoshino Ichika", "Tenma Saki", "Mochizuki Honami", "Hinomori Shiho"],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_339_rip/jacket_s_339.webp",
+        "audio": [
+            {
+                "title": "glow (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Hatsune Miku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/6/6c/Glow_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230623080144"
+                ]
+            },
+            {
+                "title": "glow (Game Version - Leo/need)",
+                "version": "SEKAI",
+                "singers": ["Hatsune Miku", "Hoshino Ichika", "Tenma Saki", "Mochizuki Honami", "Hinomori Shiho"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/8/80/Glow_%28Game_Version_-_Leo-need%29.ogg/revision/latest?cb=20230623080306"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 340,
+        "title": ["とても素敵な六月でした", "Totemo Suteki na Rokugatsu Deshita"],
+        "bands": ["Nightcord at 25:00"],
+        "server": ["JP"],
+        "difficulties": [9, 12, 18, 24, 29],
+        "category": ["3D MV"],
+        "time": 154,
+        "arranger": "Eight",
+        "composer": "Eight",
+        "lyricist": "Eight",
+        "dance members": ["Hatsune Miku", "Yoisaki Kanade", "Asahina Mafuyu", "Shinonome Ena", "Akiyama Mizuki"],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_340_rip/jacket_s_340.webp",
+        "audio": [
+            {
+                "title": "Totemo Suteki na Rokugatsu Deshita (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Hatsune Miku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/5/54/Totemo_Suteki_na_Rokugatsu_Deshita_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230626072236"
+                ]
+            },
+            {
+                "title": "Totemo Suteki na Rokugatsu Deshita (Game Version - 25-ji, Nightcord de.)",
+                "version": "SEKAI",
+                "singers": ["Hatsune Miku", "Yoisaki Kanade", "Asahina Mafuyu", "Shinonome Ena", "Akiyama Mizuki"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/1/1c/Totemo_Suteki_na_Rokugatsu_Deshita_%28Game_Version_-_25-ji%2C_Nightcord_de.%29.ogg/revision/latest?cb=20230626072315"
+                ]
+            }
+        ]
+    },
+    {
         "id": 342,
         "title": ["Blue Star"],
         "bands": ["VIRTUAL SINGER"],
@@ -12115,6 +12203,70 @@ var songs = [
                 "singers": ["KAITO"],
                 "links": [
                     "https://static.wikia.nocookie.net/projectsekai/images/f/f9/Snowman_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230404125757"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 344,
+        "title": ["脳内革命ガール", "Nounai Kakumei Gaaru"],
+        "bands": ["Vivid BAD SQUAD"],
+        "server": ["JP"],
+        "difficulties": [9, 13, 18, 27, 31],
+        "category": ["3D MV"],
+        "time": 140,
+        "arranger": "MARETU",
+        "composer": "MARETU",
+        "lyricist": "MARETU",
+        "dance members": ["Hatsune Miku", "Azusawa Kohane", "Shiraishi An", "Shinonome Akito", "Aoyagi Toya"],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_344_rip/jacket_s_344.webp",
+        "audio": [
+            {
+                "title": "Nounai Kakumei Girl (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Hatsune Miku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/8/88/Nounai_Kakumei_Girl_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230724062830"
+                ]
+            },
+            {
+                "title": "Nounai Kakumei Girl (Game Version - Vivid BAD SQUAD)",
+                "version": "SEKAI",
+                "singers": ["Hatsune Miku", "Azusawa Kohane", "Shiraishi An", "Shinonome Akito", "Aoyagi Toya"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/c/c9/Nounai_Kakumei_Girl_%28Game_Version_-_Vivid_BAD_SQUAD%29.ogg/revision/latest?cb=20230724062944"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 345,
+        "title": ["演劇", "Engeki"],
+        "bands": ["Nightcord at 25:00"],
+        "server": ["JP"],
+        "difficulties": [8, 11, 17, 24, 28],
+        "category": ["3D MV"],
+        "time": 130,
+        "arranger": "nanou",
+        "composer": "nanou",
+        "lyricist": "nanou",
+        "dance members": ["Megurine Luka", "Yoisaki Kanade", "Asahina Mafuyu", "Shinonome Ena", "Akiyama Mizuki"],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_345_rip/jacket_s_345.webp",
+        "audio": [
+            {
+                "title": "Engeki (Game Version - 25-ji, Nightcord de.)",
+                "version": "SEKAI",
+                "singers": ["Megurine Luka", "Yoisaki Kanade", "Asahina Mafuyu", "Shinonome Ena", "Akiyama Mizuki"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/4/4d/Engeki_%28Game_Version_-_25-ji%2C_Nightcord_de.%29.ogg/revision/latest?cb=20230723095906"
+                ]
+            },
+            {
+                "title": "Engeki (Menu Instrumental)",
+                "version": "Special",
+                "singers": [],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/e/e2/Event_100_bgm.ogg/revision/latest?cb=20230712105737"
                 ]
             }
         ]
@@ -12408,6 +12560,70 @@ var songs = [
         ]
     },
     {
+        "id": 360,
+        "title": ["太陽系デスコ", "Taiyoukei Disuko"],
+        "bands": ["Wonderlands x Showtime"],
+        "server": ["JP"],
+        "difficulties": [7, 13, 17, 23, 28],
+        "category": ["Original MV"],
+        "time": 146,
+        "arranger": "NayutalieN",
+        "composer": "NayutalieN",
+        "lyricist": "NayutalieN",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_360_rip/jacket_s_360.webp",
+        "audio": [
+            {
+                "title": "Taiyoukei Disco (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Hatsune Miku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/8/87/Taiyoukei_Disco_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230712061905"
+                ]
+            },
+            {
+                "title": "Taiyoukei Disco (Game Version - Wonderlands x Showtime)",
+                "version": "SEKAI",
+                "singers": ["Hatsune Miku", "Tenma Tsukasa", "Otori Emu", "Kusanagi Nene", "Kamishiro Rui"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/0/03/Taiyoukei_Disco_%28Game_Version_-_Wonderlands_x_Showtime%29.ogg/revision/latest?cb=20230712062035"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 361,
+        "title": ["きゅうくらりん", "Kyu-Kurarin"],
+        "bands": ["MORE MORE JUMP!"],
+        "server": ["JP"],
+        "difficulties": [9, 14, 20, 27, 31],
+        "category": ["Original MV"],
+        "time": 109,
+        "arranger": "-",
+        "composer": "iyowa",
+        "lyricist": "iyowa",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_361_rip/jacket_s_361.webp",
+        "audio": [
+            {
+                "title": "Kyu-Kurarin (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["KAFU"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/9/98/Kyu-Kurarin_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230703073901"
+                ]
+            },
+            {
+                "title": "Kyu-Kurarin (Game Version - MORE MORE JUMP!)",
+                "version": "SEKAI",
+                "singers": ["MEIKO", "Hanasato Minori", "Kiritani Haruka", "Momoi Airi", "Hinomori Shizuku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/9/97/Kyu-Kurarin_%28Game_Version_-_MORE_MORE_JUMP%21%29.ogg/revision/latest?cb=20230703074028"
+                ]
+            }
+        ]
+    },
+    {
         "id": 362,
         "title": ["Wonder Style"],
         "bands": ["VIRTUAL SINGER"],
@@ -12427,6 +12643,30 @@ var songs = [
                 "singers": ["Hatsune Miku"],
                 "links": [
                     "https://static.wikia.nocookie.net/projectsekai/images/c/c7/Wonder_Style_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230607072718"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 363,
+        "title": ["UNDERWATER"],
+        "bands": ["VIRTUAL SINGER"],
+        "server": ["EN", "JP"],
+        "difficulties": [6, 11, 16, 24, 29],
+        "category": ["Original MV"],
+        "time": 149,
+        "arranger": "Hylen",
+        "composer": "Hylen",
+        "lyricist": "Hylen",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_363_rip/jacket_s_363.webp",
+        "audio": [
+            {
+                "title": "UNDERWATER (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Hatsune Miku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/b/b8/UNDERWATER_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230628060918"
                 ]
             }
         ]
@@ -12520,6 +12760,78 @@ var songs = [
         ]
     },
     {
+        "id": 374,
+        "title": ["チームメイト", "Chiimu Meito"],
+        "bands": ["MORE MORE JUMP!"],
+        "server": ["JP"],
+        "difficulties": [8, 12, 18, 24, 30],
+        "category": ["2D MV"],
+        "time": 112,
+        "arranger": "HoneyWorks",
+        "composer": "HoneyWorks",
+        "lyricist": "HoneyWorks",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_374_rip/jacket_s_374.webp",
+        "audio": [
+            {
+                "title": "Teammate (Game Version - MORE MORE JUMP!)",
+                "version": "SEKAI",
+                "singers": ["Kagamine Len", "Hanasato Minori", "Kiritani Haruka", "Momoi Airi", "Hinomori Shizuku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/3/32/Teammate_%28Game_Version_-_MORE_MORE_JUMP%21%29.ogg/revision/latest?cb=20230620234539"
+                ]
+            },
+            {
+                "title": "Teammate (Menu Instrumental)",
+                "version": "Special",
+                "singers": [],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/6/60/Event_098_bgm.ogg/revision/latest?cb=20230620234430"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 375,
+        "title": ["星を繋ぐ", "Hoshi wo Tsunagu"],
+        "bands": ["Leo/need"],
+        "server": ["JP"],
+        "difficulties": [7, 12, 18, 24, 28],
+        "category": ["2D MV"],
+        "time": 97,
+        "arranger": "12340mP",
+        "composer": "40mP",
+        "lyricist": "Hifumi",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_375_rip/jacket_s_375.webp",
+        "audio": [
+            {
+                "title": "Hoshi wo Tsunagu (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Hatsune Miku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/9/92/Hoshi_wo_Tsunagu_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230721073205"
+                ]
+            },
+            {
+                "title": "Hoshi wo Tsunagu (Game Version - Leo/need)",
+                "version": "SEKAI",
+                "singers": ["KAITO", "Hoshino Ichika", "Tenma Saki", "Mochizuki Honami", "Hinomori Shiho"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/a/a4/Hoshi_wo_Tsunagu_%28Game_Version_-_Leo-need%29.ogg/revision/latest?cb=20230721073337"
+                ]
+            },
+            {
+                "title": "Hoshi wo Tsunagu (Menu Instrumental)",
+                "version": "Special",
+                "singers": [],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/5/5e/Event_101_bgm.ogg/revision/latest?cb=20230721073104"
+                ]
+            }
+        ]
+    },
+    {
         "id": 380,
         "title": ["スターダストメドレー", "Sutaadasuto Medoree"],
         "bands": ["VIRTUAL SINGER"],
@@ -12539,6 +12851,30 @@ var songs = [
                 "singers": ["Hatsune Miku"],
                 "links": [
                     "https://static.wikia.nocookie.net/projectsekai/images/9/98/Stardust_Medley_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230616070828"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 382,
+        "title": ["心拍ペアリング", "Shinpaku Peeringu"],
+        "bands": ["VIRTUAL SINGER"],
+        "server": ["JP"],
+        "difficulties": [6, 11, 17, 23, 28],
+        "category": ["Static Image"],
+        "time": 87,
+        "arranger": "Yukino Ito",
+        "composer": "Yukino Ito",
+        "lyricist": "Yukino Ito",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_382_rip/jacket_s_382.webp",
+        "audio": [
+            {
+                "title": "Shinpaku Pairing (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Hatsune Miku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/1/16/Shinpaku_Pairing_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230714063739"
                 ]
             }
         ]
