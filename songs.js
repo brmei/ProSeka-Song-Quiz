@@ -9107,7 +9107,7 @@ var songs = [
         "id": 240,
         "title": ["踊れオーケストラ", "Odore Ookesutora", "Dance orchestra"],
         "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [8, 12, 17, 24, 28],
         "category": ["Static Image"],
         "time": 109.8,
@@ -9547,7 +9547,7 @@ var songs = [
         "id": 251,
         "title": ["フロイライン＝ビブリォチカ", "Furoirain=Biburochika", "Fräulein=Biblioteca", "Fräulein=библиотека"],
         "bands": ["VIRTUAL SINGER"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [9, 14, 18, 27, 31],
         "category": ["Static Image"],
         "time": 145.6,
@@ -11123,7 +11123,7 @@ var songs = [
         "id": 302,
         "title": ["フレー", "Furee", "Hurray"],
         "bands": ["VIRTUAL SINGER", "Leo/need"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [7, 13, 17, 26, 30],
         "category": ["2D MV"],
         "time": 138.6,
@@ -11603,6 +11603,30 @@ var songs = [
                 "singers": ["Hatsune Miku"],
                 "links": [
                     "https://static.wikia.nocookie.net/projectsekai/images/c/c1/Sharing_The_World_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230512192658"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 319,
+        "title": ["Decade"],
+        "bands": ["VIRTUAL SINGER"],
+        "server": ["EN", "JP"],
+        "difficulties": [6, 11, 16, 24, 30],
+        "category": ["Static Image"],
+        "time": 145,
+        "arranger": "Dixie Flatline",
+        "composer": "Dixie Flatline",
+        "lyricist": "Dixie Flatline",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_319_rip/jacket_s_319.webp",
+        "audio": [
+            {
+                "title": "Decade (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Hatsune Miku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/7/77/Decade_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230728065608"
                 ]
             }
         ]
@@ -12832,6 +12856,30 @@ var songs = [
         ]
     },
     {
+        "id": 379,
+        "title": ["ずんだパーリナイ", "Zunda Paarinai", "Zunda Party Night"],
+        "bands": ["VIRTUAL SINGER"],
+        "server": ["JP"],
+        "difficulties": [7, 13, 19, 27, 31],
+        "category": ["Static Image"],
+        "time": 167,
+        "arranger": "namigroove",
+        "composer": "namigroove",
+        "lyricist": "namigroove",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_379_rip/jacket_s_379.webp",
+        "audio": [
+            {
+                "title": "Zunda Party Night (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Zundamon"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/d/dc/Zunda_Party_Night_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230804071952"
+                ]
+            }
+        ]
+    },
+    {
         "id": 380,
         "title": ["スターダストメドレー", "Sutaadasuto Medoree", "Stardust Medley"],
         "bands": ["VIRTUAL SINGER"],
@@ -12856,6 +12904,30 @@ var songs = [
         ]
     },
     {
+        "id": 381,
+        "title": ["新人類", "Shinjinrui", "New Human Race"],
+        "bands": ["VIRTUAL SINGER"],
+        "server": ["JP"],
+        "difficulties": [6, 13, 19, 27, 31],
+        "category": ["Static Image"],
+        "time": 157,
+        "arranger": "kemu",
+        "composer": "marasy, JIN",
+        "lyricist": "marasy, JIN",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_381_rip/jacket_s_381.webp",
+        "audio": [
+            {
+                "title": "Shinjinrui (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Kagamine Rin"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/e/e5/Shinjinrui_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230803203248"
+                ]
+            }
+        ]
+    },
+    {
         "id": 382,
         "title": ["心拍ペアリング", "Shinpaku Peeringu", "Heartbeat Pairing"],
         "bands": ["VIRTUAL SINGER"],
@@ -12875,6 +12947,38 @@ var songs = [
                 "singers": ["Hatsune Miku"],
                 "links": [
                     "https://static.wikia.nocookie.net/projectsekai/images/1/16/Shinpaku_Pairing_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230714063739"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 400,
+        "title": ["我らステインバスターズ!", "Warera Sutein Basutaazu!", "We Are the Stain Busters!"],
+        "bands": ["MORE MORE JUMP!", "Other"],
+        "server": ["JP"],
+        "difficulties": [6, 12, 17, 24, 28],
+        "category": ["2D MV"],
+        "time": 104,
+        "arranger": "Mashima Yulo",
+        "composer": "Mashima Yulo",
+        "lyricist": "Mashima Yulo",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_400_rip/jacket_s_400.webp",
+        "audio": [
+            {
+                "title": "Warera Stain Busters! (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Hatsune Miku", "Kagamine Rin"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/d/db/Warera_Stain_Busters%21_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20230802145122"
+                ]
+            },
+            {
+                "title": "Warera Stain Busters! (Game Version - MORE MORE JUMP!)",
+                "version": "SEKAI",
+                "singers": ["Hatsune Miku", "Kagamine Rin", "Hanasato Minori", "Kiritani Haruka", "Momoi Airi", "Hinomori Shizuku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/3/3a/Warera_Stain_Busters%21_%28Game_Version_-_MORE_MORE_JUMP%21%29.ogg/revision/latest?cb=20230802145046"
                 ]
             }
         ]
