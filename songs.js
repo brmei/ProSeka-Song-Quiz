@@ -12131,7 +12131,7 @@ var songs = [
         "id": 338,
         "title": ["Where shall we go?"],
         "bands": ["VIRTUAL SINGER"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [6, 11, 16, 21, 26],
         "category": ["Static Image"],
         "time": 119.1,
@@ -14467,6 +14467,38 @@ var songs = [
                 "singers": [],
                 "links": [
                     "https://static.wikia.nocookie.net/projectsekai/images/6/69/Event_109_bgm.ogg/revision/latest?cb=20231013021834"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 422,
+        "title": ["JUMPIN’ OVER !"],
+        "bands": ["MORE MORE JUMP!"],
+        "server": ["JP"],
+        "difficulties": [7, 12, 17, 24, 28],
+        "category": ["3D MV", "2D MV"],
+        "time": 108,
+        "arranger": "r-906",
+        "composer": "r-906",
+        "lyricist": "r-906",
+        "dance members": ["Hatsune Miku", "Hanasato Minori", "Kiritani Haruka", "Momoi Airi", "Hinomori Shizuku"],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_422_rip/jacket_s_422.webp",
+        "audio": [
+            {
+                "title": "JUMPIN’ OVER ! (Game Version - MORE MORE JUMP!)",
+                "version": "SEKAI",
+                "singers": ["Hatsune Miku", "Hanasato Minori", "Kiritani Haruka", "Momoi Airi", "Hinomori Shizuku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/a/ae/JUMPIN%E2%80%99_OVER_%21_%28Game_Version_-_MORE_MORE_JUMP%21%29.ogg/revision/latest?cb=20240227142215"
+                ]
+            },
+            {
+                "title": "JUMPIN’ OVER ! (Full Version - MORE MORE JUMP!)",
+                "version": "Special",
+                "singers": ["Hatsune Miku", "Hanasato Minori", "Kiritani Haruka", "Momoi Airi", "Hinomori Shizuku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/0/03/JUMPIN%E2%80%99_OVER_%21_%28Full_Version_-_MORE_MORE_JUMP%21%29.ogg/revision/latest?cb=20240227142512"
                 ]
             }
         ]
