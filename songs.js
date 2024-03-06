@@ -11433,9 +11433,9 @@ var songs = [
     },
     {
         "id": 312,
-        "title": ["ココロ", "Kokoro", "Heart"],
+        "title": ["ココロ", "kokoro"],
         "bands": ["VIRTUAL SINGER"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [6, 12, 16, 24, 28],
         "category": ["Static Image"],
         "time": 141.9,
@@ -11899,7 +11899,7 @@ var songs = [
         "id": 329,
         "title": ["ヤミナベ!!!!", "Yaminabe!!!!", "Dark Hot Pot!!!!"],
         "bands": ["VIRTUAL SINGER"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [9, 15, 23, 31, 37],
         "category": ["Static Image"],
         "time": 129.8,
@@ -14544,6 +14544,46 @@ var songs = [
         ]
     },
     {
+        "id": 424,
+        "title": ["インテグラル", "Integeguraru", "Integral"],
+        "bands": ["Leo/need"],
+        "server": ["JP"],
+        "difficulties": [8, 12, 16, 28],
+        "category": ["3D MV", "2D MV"],
+        "time": 118,
+        "arranger": "*Luna",
+        "composer": "*Luna",
+        "lyricist": "*Luna",
+        "dance members": ["Hatsune Miku", "Hoshino Ichika", "Tenma Saki", "Mochizuki Honami", "Hinomori Shiho"],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_424_rip/jacket_s_424.webp",
+        "audio": [
+            {
+                "title": "Integral (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Hatsune Miku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/7/7f/Integral_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20240301103034"
+                ]
+            },
+            {
+                "title": "Integral (Game Version - Leo/need)",
+                "version": "SEKAI",
+                "singers": ["Hatsune Miku", "Hoshino Ichika", "Tenma Saki", "Mochizuki Honami", "Hinomori Shiho"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/c/c0/Integral_%28Game_Version_-_Leo-need%29.ogg/revision/latest?cb=20240301103156"
+                ]
+            },
+            {
+                "title": "Integral (Full Version - Leo/need)",
+                "version": "Special",
+                "singers": ["Hatsune Miku", "Hoshino Ichika", "Tenma Saki", "Mochizuki Honami", "Hinomori Shiho"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/a/a5/Integral_%28Full_Version_-_Leo-need%29.ogg/revision/latest?cb=20240301103310"
+                ]
+            }
+        ]
+    },
+    {
         "id": 425,
         "title": ["Cool Me Down"],
         "bands": ["VIRTUAL SINGER"],
@@ -15032,6 +15072,38 @@ var songs = [
         ]
     },
     {
+        "id": 455,
+        "title": ["ド屑", "Dokuzu", "Scum of the Earth"],
+        "bands": ["Nightcord at 25:00"],
+        "server": ["JP"],
+        "difficulties": [5, 12, 18, 25, 28],
+        "category": ["Original MV"],
+        "time": 121,
+        "arranger": "Nakiso",
+        "composer": "Nakiso",
+        "lyricist": "Nakiso",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_455_rip/jacket_s_455.webp",
+        "audio": [
+            {
+                "title": "Dokuzu (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Kaai Yuki"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/3/3e/Dokuzu_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20240304063007"
+                ]
+            },
+            {
+                "title": "Dokuzu (Game Version - 25-ji, Nightcord de.)",
+                "version": "SEKAI",
+                "singers": ["Hatsune Miku", "Asahina Mafuyu", "Shinonome Ena"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/0/07/Dokuzu_%28Game_Version_-_25-ji%2C_Nightcord_de.%29.ogg/revision/latest?cb=20240304063030"
+                ]
+            }
+        ]
+    },
+    {
         "id": 461,
         "title": ["おどロボ", "Odorobo", "Dance Robo"],
         "bands": ["VIRTUAL SINGER"],
@@ -15099,6 +15171,38 @@ var songs = [
                 "singers": ["Hatsune Miku"],
                 "links": [
                     "https://static.wikia.nocookie.net/projectsekai/images/2/2b/Juurokusai_no_Shinzou_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20240215204559"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 469,
+        "title": ["ラグトレイン", "Ragu Torein", "Lag Train"],
+        "bands": ["Nightcord at 25:00"],
+        "server": ["JP"],
+        "difficulties": [6, 13, 16, 23, 27, 25],
+        "category": ["Original MV"],
+        "time": 127,
+        "arranger": "inabakumori",
+        "composer": "inabakumori",
+        "lyricist": "inabakumori",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_469_rip/jacket_s_469.webp",
+        "audio": [
+            {
+                "title": "Lag Train (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Kaai Yuki"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/b/bd/Lag_Train_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20240229192926"
+                ]
+            },
+            {
+                "title": "Lag Train (Game Version - 25-ji, Nightcord de.)",
+                "version": "SEKAI",
+                "singers": ["MEIKO", "Yoisaki Kanade", "Mochizuki Honami"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/1/16/Lag_Train_%28Game_Version_-_25-ji%2C_Nightcord_de%29.ogg/revision/latest?cb=20240229193101"
                 ]
             }
         ]
