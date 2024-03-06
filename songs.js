@@ -11897,7 +11897,7 @@ var songs = [
     },
     {
         "id": 329,
-        "title": ["ヤミナベ!!!!", "Yaminabe!!!!", "Dark Hot Pot!!!!"],
+        "title": ["ヤミナベ!!!!", "YAMINABE!!!!"],
         "bands": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 15, 23, 31, 37],
