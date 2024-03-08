@@ -24,7 +24,7 @@
 					<h1>Last Song Info:</h1>
 					<p>Song ID: <span id="songPanelId">-</span></p>
 					<p>Titles: <span id="songPanelTitle">-</span></p>
-					<p>Groups: <span id="songPanelBand">-</span></p>
+					<p>Groups: <span id="songPanelGroup">-</span></p>
 					<p>Servers: <span id="songPanelServer">-</span></p>
 					<p>Difficulties: <span id="songPanelDifficulty">-</span></p>
 					<p>Categories: <span id="songPanelCategory">-</span></p>
@@ -52,14 +52,14 @@
 						<div>
 							<h1>Gameplay:</h1>
 							Song Number <input type="number" id="numberOfSongs" min="1" value="5" style="width: 3em;"><br/>
-							Guess Time 1 <input type="range" id="guessTime" min="1" max="60" value="20"> 60<br/>
+							Guess Time <input type="number" id="guessTime" min="1" max="60" value="20"> seconds<br/>
 							Random Sample <input type="checkbox" id="randomSample" checked><br/>
 						</div>
 						<div>
 							<h1>Filtering Settings:</h1>
 							Duplicate Songs <input type="checkbox" id="duplicates"><br/>
 							Filter Covers by Vocals <input type="checkbox" id="filterCoversBySingers"><br/>
-							Match All Bands <input type="checkbox" id="matchAllBands"><br/>
+							Match All Groups <input type="checkbox" id="matchAllGroups"><br/>
 							Match All Singers <input type="checkbox" id="matchAllSingers"><br/>
 						</div>
 					</div>
@@ -79,35 +79,35 @@
 								</div>
 							</div>
 							<div>
-								<h1>Bands:</h1>
-								<div id="menuBands">
+								<h1>Groups:</h1>
+								<div id="menuGroups">
 									<div>
 										<img src="https://sekai.best/images/en/logol_outline/logo_piapro.png" class="selectIcon"/>
-										<input type="checkbox" id="bandVS" class="band" checked>
+										<input type="checkbox" id="groupVS" class="group" checked>
 									</div>
 									<div>
 										<img src="https://sekai.best/images/en/logol_outline/logo_light_sound.png" class="selectIcon"/>
-										<input type="checkbox" id="bandLN" class="band" checked>
+										<input type="checkbox" id="groupLN" class="group" checked>
 									</div>
 									<div>
 										<img src="https://sekai.best/images/en/logol_outline/logo_idol.png" class="selectIcon"/>
-										<input type="checkbox" id="bandMMJ" class="band" checked>
+										<input type="checkbox" id="groupMMJ" class="group" checked>
 									</div>
 									<div>
 										<img src="https://sekai.best/images/en/logol_outline/logo_street.png" class="selectIcon"/>
-										<input type="checkbox" id="bandVBS" class="band" checked>
+										<input type="checkbox" id="groupVBS" class="group" checked>
 									</div>
 									<div>
 										<img src="https://sekai.best/images/en/logol_outline/logo_theme_park.png" class="selectIcon"/>
-										<input type="checkbox" id="bandWXS" class="band" checked>
+										<input type="checkbox" id="groupWXS" class="group" checked>
 									</div>
 									<div>
 										<img src="https://sekai.best/images/en/logol_outline/logo_school_refusal.png" class="selectIcon"/>
-										<input type="checkbox" id="band25JI" class="band" checked>
+										<input type="checkbox" id="group25JI" class="group" checked>
 									</div>
 									<div>
 										Other
-										<input type="checkbox" id="bandOther" class="band" checked>
+										<input type="checkbox" id="groupOther" class="group" checked>
 									</div>
 								</div>
 							</div>

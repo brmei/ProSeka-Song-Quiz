@@ -19,6 +19,11 @@ body {
     font-family: 'Mono', sans-serif;
     color: #cdcdd7;
     background-color: #111113;
+    background-image: url("https://i.imgur.com/usq9jVJ.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
 }
 
 div {
@@ -137,7 +142,7 @@ div {
     height: 100%;
 }
 
-#menuBands > div {
+#menuGroups > div {
     display: inline-block
 }
 

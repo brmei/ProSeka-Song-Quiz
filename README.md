@@ -85,3 +85,10 @@ Addition of cleaner UI and quality of life features:
 - Bug Fixes:
     - Gameplay proceeds even when no songs are found
     - Some song information is corrected
+
+## 3-7-24
+Fixed various issues:
+- Replaced Guess Time control with a text box
+- Replaced references of "band" with "group"
+- Fixed missing waiting image
+- Added background image

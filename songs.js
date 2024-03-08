@@ -2,7 +2,7 @@ var songs = [
     {
         "id": 1,
         "title": ["Tell Your World"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [5, 10, 16, 22, 26],
         "category": ["3D MV"],
@@ -26,7 +26,7 @@ var songs = [
     {
         "id": 2,
         "title": ["ロキ","Roki", "ROKI"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [7, 11, 17, 24, 28],
         "category": ["3D MV"],
@@ -66,7 +66,7 @@ var songs = [
     {
         "id": 3,
         "title": ["テオ", "Teo"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 19, 27, 32],
         "category": ["3D MV"],
@@ -130,7 +130,7 @@ var songs = [
     {
         "id": 6,
         "title": ["ヒバナ -Reloaded-", "Hibana -Reloaded-", "HIBANA -Reloaded-"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 19, 28, 32],
         "category": ["2D MV"],
@@ -186,7 +186,7 @@ var songs = [
     {
         "id": 8,
         "title": ["タイムマシン", "Taimu Mashin", "Time Machine"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 16, 23, 26],
         "category": ["3D MV", "2D MV"],
@@ -234,7 +234,7 @@ var songs = [
     {
         "id": 10,
         "title": ["ハッピーシンセサイザ", "Happii Shinsezaiza", "Happy Synthesizer"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 18, 24, 28],
         "category": ["3D MV", "2D MV"],
@@ -306,7 +306,7 @@ var songs = [
     {
         "id": 11,
         "title": ["ビバハピ", "Biba Hapi", "Viva Happy"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 24, 28],
         "category": ["Static Image", "2D MV"],
@@ -354,7 +354,7 @@ var songs = [
     {
         "id": 13,
         "title": ["Nostalogic"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 23, 28],
         "category": ["2D MV"],
@@ -410,7 +410,7 @@ var songs = [
     {
         "id": 15,
         "title": ["drop pop candy"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 25, 28],
         "category": ["3D MV"],
@@ -466,7 +466,7 @@ var songs = [
     {
         "id": 18,
         "title": ["アスノヨゾラ哨戒班", "Asu no Yozora Shoukaihan", "Night Sky Patrol of Tomorrow"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 17, 25, 28],
         "category": ["Original MV"],
@@ -490,7 +490,7 @@ var songs = [
     {
         "id": 19,
         "title": ["シャルル", "Sharuru", "Charles"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 17, 23, 27],
         "category": ["3D MV"],
@@ -554,7 +554,7 @@ var songs = [
     {
         "id": 21,
         "title": ["脱法ロック", "Dappou Rock", "Law-Evading Rock"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 18, 26, 31],
         "category": ["Original MV"],
@@ -602,7 +602,7 @@ var songs = [
     {
         "id": 22,
         "title": ["命に嫌われている。", "Inochi ni Kirawarete Iru.", "Hated by Life"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 18, 26, 29],
         "category": ["2D MV"],
@@ -682,7 +682,7 @@ var songs = [
     {
         "id": 26,
         "title": ["劣等上等", "Rettou Joutou", "BRING IT ON"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 18, 25, 30],
         "category": ["3D MV"],
@@ -722,7 +722,7 @@ var songs = [
     {
         "id": 27,
         "title": ["Just Be Friends"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 17, 23, 27],
         "category": ["2D MV"],
@@ -778,7 +778,7 @@ var songs = [
     {
         "id": 28,
         "title": ["ドクター=ファンクビート", "Dokutaa=Fankubiito", "Doctor=Funk Beat"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 19, 27, 32],
         "category": ["2D MV"],
@@ -826,7 +826,7 @@ var songs = [
     {
         "id": 36,
         "title": ["ミラクルペイント", "Mirakuru Peinto", "Miracle Paint"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [9, 12, 18, 25, 29],
         "category": ["Original MV", "2D MV"],
@@ -866,7 +866,7 @@ var songs = [
     {
         "id": 38,
         "title": ["ブリキノダンス", "Buriki no Dansu", "Buriki no Dance"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 18, 25, 29],
         "category": ["3D MV"],
@@ -922,7 +922,7 @@ var songs = [
     {
         "id": 41,
         "title": ["スイートマジック", "Suiito Majikku", "Sweet Magic"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [5, 12, 18, 24, 27],
         "category": ["3D MV", "2D MV"],
@@ -994,7 +994,7 @@ var songs = [
     {
         "id": 43,
         "title": ["ネクストネスト", "Nekusuto Nesuto", "NEXT NEST"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 18, 27, 29],
         "category": ["Static Image"],
@@ -1018,7 +1018,7 @@ var songs = [
     {
         "id": 44,
         "title": ["Hand in Hand"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 16, 23, 27],
         "category": ["Original MV"],
@@ -1042,7 +1042,7 @@ var songs = [
     {
         "id": 45,
         "title": ["39みゅーじっく！", "39 Myuujikku", "39Music!"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 16, 23, 28],
         "category": ["Original MV"],
@@ -1066,7 +1066,7 @@ var songs = [
     {
         "id": 46,
         "title": ["グリーンライツ・セレナーデ", "Guriinraitsu Sereneede", "Greenlights Serenade"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 19, 27, 31],
         "category": ["Original MV"],
@@ -1090,7 +1090,7 @@ var songs = [
     {
         "id": 47,
         "title": ["メルト", "Meruto", "Melt"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 25, 28],
         "category": ["Static Image"],
@@ -1114,7 +1114,7 @@ var songs = [
     {
         "id": 48,
         "title": ["ワールドイズマイン", "Waarudo izu Main", "The World is Mine"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 17, 24, 28],
         "category": ["Static Image"],
@@ -1138,7 +1138,7 @@ var songs = [
     {
         "id": 49,
         "title": ["初音ミクの消失", "Hatsune Miku no Shoushitsu", "THE END OF HATSUNE MIKU"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 15, 22, 30, 35],
         "category": ["Static Image"],
@@ -1162,7 +1162,7 @@ var songs = [
     {
         "id": 50,
         "title": ["Blessing"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 16, 23, 27],
         "category": ["Original MV"],
@@ -1186,7 +1186,7 @@ var songs = [
     {
         "id": 51,
         "title": ["セカイはまだ始まってすらいない", "Sekai wa Mada Hajimatte sura Inai", "The World Hasn't Even Started Yet"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 16, 24, 29],
         "category": ["3D MV"],
@@ -1234,7 +1234,7 @@ var songs = [
     {
         "id": 52,
         "title": ["potatoになっていく", "potato ni Natte iku", "Becoming Potatoes"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 17, 24, 28],
         "category": ["3D MV", "2D MV"],
@@ -1282,7 +1282,7 @@ var songs = [
     {
         "id": 54,
         "title": ["Ready Steady"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [5, 10, 16, 25, 29],
         "category": ["3D MV"],
@@ -1314,7 +1314,7 @@ var songs = [
     {
         "id": 55,
         "title": ["Forward"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 16, 24, 28],
         "category": ["3D MV"],
@@ -1378,7 +1378,7 @@ var songs = [
     {
         "id": 57,
         "title": ["アイドル新鋭隊", "Idol Shin'eitai", "Newly Edgy Idols"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 17, 24, 28],
         "category": ["3D MV"],
@@ -1418,7 +1418,7 @@ var songs = [
     {
         "id": 60,
         "title": ["悔やむと書いてミライ", "Kuyamu to Kaite Mirai", "Composing the Future"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 17, 26, 30],
         "category": ["3D MV"],
@@ -1482,7 +1482,7 @@ var songs = [
     {
         "id": 61,
         "title": ["携帯恋話", "Keitai Renwa", "Cellphone Love Story"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 18, 25, 29],
         "category": ["2D MV"],
@@ -1522,7 +1522,7 @@ var songs = [
     {
         "id": 62,
         "title": ["ジャックポットサッドガール", "Jakkupotto Saddo Gaaru", "Jackpot Sad Girl"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 18, 26, 29],
         "category": ["Original MV", "2D MV"],
@@ -1570,7 +1570,7 @@ var songs = [
     {
         "id": 63,
         "title": ["needLe"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 25, 29],
         "category": ["3D MV"],
@@ -1642,7 +1642,7 @@ var songs = [
     {
         "id": 64,
         "title": ["ステラ", "Sutera", "Stella"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 17, 26, 30],
         "category": ["3D MV"],
@@ -1698,7 +1698,7 @@ var songs = [
     {
         "id": 66,
         "title": ["ハロ／ハワユ", "Haro / Hawayu", "Hello / How Are You"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [5, 10, 15, 22, 26],
         "category": ["Static Image"],
@@ -1738,7 +1738,7 @@ var songs = [
     {
         "id": 67,
         "title": ["自傷無色", "Jishou Mushoku"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [5, 10, 17, 22, 26],
         "category": ["3D MV", "2D MV"],
@@ -1786,7 +1786,7 @@ var songs = [
     {
         "id": 68,
         "title": ["ダンスロボットダンス", "Dansu Robotto Dansu", "Dance Robot Dance"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 18, 26, 29],
         "category": ["3D MV"],
@@ -1842,7 +1842,7 @@ var songs = [
     {
         "id": 69,
         "title": ["フラジール", "Furajiiru", "Fragile"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 17, 24, 27],
         "category": ["3D MV", "2D MV"],
@@ -1914,7 +1914,7 @@ var songs = [
     {
         "id": 70,
         "title": ["メルティランドナイトメア", "Merutii Rando Naitomea", "Melty Land Nightmare"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 24, 26],
         "category": ["3D MV"],
@@ -1954,7 +1954,7 @@ var songs = [
     {
         "id": 71,
         "title": ["ツギハギスタッカート", "Tsugihagi Sutakkaato", "Patchwork Staccato"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 16, 24, 27],
         "category": ["3D MV"],
@@ -2010,7 +2010,7 @@ var songs = [
     {
         "id": 72,
         "title": ["ブレス・ユア・ブレス", "Buresu Yua Buresu", "Bless Your Breath"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 17, 24, 28],
         "category": ["Original MV"],
@@ -2034,7 +2034,7 @@ var songs = [
     {
         "id": 73,
         "title": ["ニア", "Nia", "Near"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 16, 22, 26],
         "category": ["3D MV"],
@@ -2082,7 +2082,7 @@ var songs = [
     {
         "id": 74,
         "title": ["独りんぼエンヴィー", "Hitorinbo Envuii", "Hitorinbo Envy"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 16, 22, 26],
         "category": ["3D MV"],
@@ -2146,7 +2146,7 @@ var songs = [
     {
         "id": 75,
         "title": ["ウミユリ海底譚", "Umiyuri Kaiteitan", "Tale of the Deep Sea Lily"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 17, 23, 27],
         "category": ["3D MV"],
@@ -2186,7 +2186,7 @@ var songs = [
     {
         "id": 76,
         "title": ["セカイ", "Sekai", "SEKAI"],
-        "bands": ["VIRTUAL SINGER", "Other"],
+        "groups": ["VIRTUAL SINGER", "Other"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 23, 27],
         "category": ["3D MV"],
@@ -2218,7 +2218,7 @@ var songs = [
     {
         "id": 77,
         "title": ["ワーワーワールド", "Waa Waa Waarudo", "wah wah world!!"],
-        "bands": ["VIRTUAL SINGER", "Other"],
+        "groups": ["VIRTUAL SINGER", "Other"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 24, 28],
         "category": ["3D MV"],
@@ -2250,7 +2250,7 @@ var songs = [
     {
         "id": 78,
         "title": ["ぼうけんのしょがきえました！", "Bouken no Sho ga Kiemashita!", "Your Adventure Log Has Vanished!"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 19, 26, 31],
         "category": ["Original MV", "2D MV"],
@@ -2290,7 +2290,7 @@ var songs = [
     {
         "id": 81,
         "title": ["夜咄ディセイブ", "Yobanashi Deiseibu", "Yobanashi Deceive"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [8, 14, 19, 26, 30],
         "category": ["Original MV"],
@@ -2354,7 +2354,7 @@ var songs = [
     {
         "id": 82,
         "title": ["alive"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 16, 23, 26],
         "category": ["Static Image"],
@@ -2378,7 +2378,7 @@ var songs = [
     {
         "id": 83,
         "title": ["Gimme×Gimme"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 18, 26, 29],
         "category": ["Static Image"],
@@ -2402,7 +2402,7 @@ var songs = [
     {
         "id": 84,
         "title": ["ジャンキーナイトタウンオーケストラ", "Jankii Naito Taun OOkesutora", "junky nighttown orchestra"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 18, 26, 31],
         "category": ["Static Image"],
@@ -2426,7 +2426,7 @@ var songs = [
     {
         "id": 85,
         "title": ["Leia - Remind"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 18, 25, 28],
         "category": ["Static Image"],
@@ -2450,7 +2450,7 @@ var songs = [
     {
         "id": 86,
         "title": ["on the rocks"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 11, 16, 23, 27],
         "category": ["Static Image"],
@@ -2474,7 +2474,7 @@ var songs = [
     {
         "id": 87,
         "title": ["恋愛裁判", "Ren'ai Saiban", "Love Trial"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 22, 27],
         "category": ["Original MV", "2D MV"],
@@ -2530,7 +2530,7 @@ var songs = [
     {
         "id": 88,
         "title": ["チュルリラ・チュルリラ・ダッダッダ！", "Chururira Chururira Daddadda"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 18, 26, 31],
         "category": ["3D MV", "2D MV"],
@@ -2570,7 +2570,7 @@ var songs = [
     {
         "id": 89,
         "title": ["Color of Drops"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 16, 23, 27],
         "category": ["3D MV"],
@@ -2634,7 +2634,7 @@ var songs = [
     {
         "id": 90,
         "title": ["限りなく灰色へ", "Kagirinaku Haiiro e", "Close to gray"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 26, 30],
         "category": ["3D MV"],
@@ -2690,7 +2690,7 @@ var songs = [
     {
         "id": 91,
         "title": ["ドラマツルギー", "Doramatsuragii", "Dramaturgy"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 25, 28],
         "category": ["Original MV"],
@@ -2738,7 +2738,7 @@ var songs = [
     {
         "id": 92,
         "title": ["乙女解剖", "Otome Kaibou", "Otome Dissection"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [5, 12, 16, 24, 27],
         "category": ["Original MV", "2D MV"],
@@ -2794,7 +2794,7 @@ var songs = [
     {
         "id": 93,
         "title": ["青く駆けろ！", "Aoku Kakero!"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 17, 24, 27],
         "category": ["Static Image"],
@@ -2834,7 +2834,7 @@ var songs = [
     {
         "id": 94,
         "title": ["とても痛い痛がりたい", "Totemo Itai Itagaritai"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 18, 23, 28],
         "category": ["Static Image"],
@@ -2874,7 +2874,7 @@ var songs = [
     {
         "id": 95,
         "title": ["威風堂々", "Ifuudoudou"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 24, 28],
         "category": ["3D MV", "2D MV"],
@@ -2946,7 +2946,7 @@ var songs = [
     {
         "id": 96,
         "title": ["from Y to Y"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 16, 24, 26],
         "category": ["Static Image"],
@@ -2994,7 +2994,7 @@ var songs = [
     {
         "id": 97,
         "title": ["霽れを待つ", "Hare wo Matsu", "Awaiting Clear Skies"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 26, 30],
         "category": ["2D MV"],
@@ -3050,7 +3050,7 @@ var songs = [
     {
         "id": 98,
         "title": ["ロストワンの号哭", "Rosuto Wan no Goukoku", "Lost One's Weeping"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [7, 14, 19, 26, 32],
         "category": ["3D MV", "2D MV"],
@@ -3114,7 +3114,7 @@ var songs = [
     {
         "id": 99,
         "title": ["モア！ジャンプ！モア！", "Moa! Jyanpu! Moa!", "More! Jump! More!"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 18, 26, 31],
         "category": ["2D MV"],
@@ -3146,7 +3146,7 @@ var songs = [
     {
         "id": 100,
         "title": ["ECHO"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 16, 23, 26],
         "category": ["2D MV"],
@@ -3202,7 +3202,7 @@ var songs = [
     {
         "id": 101,
         "title": ["RAD DOGS"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 26, 30],
         "category": ["2D MV"],
@@ -3258,7 +3258,7 @@ var songs = [
     {
         "id": 102,
         "title": ["幽霊東京", "Yuurei Tokyo", "Ghost City Tokyo"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 17, 24, 27],
         "category": ["Static Image"],
@@ -3306,7 +3306,7 @@ var songs = [
     {
         "id": 103,
         "title": ["ニジイロストーリーズ", "Nijiiro Sutooriizu", "NIJIIRO STORIES"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 18, 25, 29],
         "category": ["2D MV"],
@@ -3362,7 +3362,7 @@ var songs = [
     {
         "id": 104,
         "title": ["サンドリヨン 10th Anniversary", "Sandoriyon 10th Anniversary", "Cendrillon 10th Anniversary"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 25, 28],
         "category": ["Static Image"],
@@ -3386,7 +3386,7 @@ var songs = [
     {
         "id": 105,
         "title": ["ワンスアポンアドリーム", "Wansu Apon a Doriimu", "once upon a dream"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 16, 22, 27],
         "category": ["2D MV"],
@@ -3434,7 +3434,7 @@ var songs = [
     {
         "id": 106,
         "title": ["お気に召すまま", "Oki ni Mesu mama", "As You Like It"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 24, 28],
         "category": ["3D MV"],
@@ -3482,7 +3482,7 @@ var songs = [
     {
         "id": 107,
         "title": ["ミルククラウン・オン・ソーネチカ", "Miruku Kuraun on Soonechika", "Milk Crown on Sonechka"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 18, 26, 30],
         "category": ["2D MV"],
@@ -3538,7 +3538,7 @@ var songs = [
     {
         "id": 108,
         "title": ["愛されなくても君がいる", "Aisarenakute mo Kimi ga Iru", "Because You're Here"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 16, 23, 27],
         "category": ["Original MV"],
@@ -3562,7 +3562,7 @@ var songs = [
     {
         "id": 109,
         "title": ["ヒビカセ", "Hibikase"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 25, 28],
         "category": ["Original MV"],
@@ -3586,7 +3586,7 @@ var songs = [
     {
         "id": 110,
         "title": ["千本桜", "Senbonzakura"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 14, 20, 26, 32],
         "category": ["Static Image"],
@@ -3618,7 +3618,7 @@ var songs = [
     {
         "id": 111,
         "title": ["カトラリー", "Katorarii", "Cutlery"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [5, 12, 18, 25, 28],
         "category": ["Original MV"],
@@ -3674,7 +3674,7 @@ var songs = [
     {
         "id": 112,
         "title": ["天使のクローバー", "Tenshi no Clover", "Angel's Clover"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 17, 27, 31],
         "category": ["3D MV"],
@@ -3722,7 +3722,7 @@ var songs = [
     {
         "id": 113,
         "title": ["ローリンガール", "Roorin Gaaru", "Rollin Girl"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 18, 26, 31],
         "category": ["Static Image"],
@@ -3746,7 +3746,7 @@ var songs = [
     {
         "id": 114,
         "title": ["裏表ラバーズ", "Ura Omote Rabaazu", "Ura-Omote Lovers"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 18, 26, 30],
         "category": ["Static Image"],
@@ -3770,7 +3770,7 @@ var songs = [
     {
         "id": 115,
         "title": ["アンノウン・マザーグース", "Announ Mazaaguusu", "Unknown Mother Goose"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 17, 26, 29],
         "category": ["Static Image"],
@@ -3794,7 +3794,7 @@ var songs = [
     {
         "id": 116,
         "title": ["アイディスマイル", "Aidi Sumairu", "IDSMILE"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 25, 28],
         "category": ["3D MV", "2D MV"],
@@ -3866,7 +3866,7 @@ var songs = [
     {
         "id": 117,
         "title": ["ODDS&ENDS"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 18, 24, 29],
         "category": ["Static Image"],
@@ -3890,7 +3890,7 @@ var songs = [
     {
         "id": 118,
         "title": ["＊ハロー、プラネット。", "＊Haroo, Puranetto.", "＊Hello, Planet."],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 10, 17, 24, 28],
         "category": ["Original MV"],
@@ -3914,7 +3914,7 @@ var songs = [
     {
         "id": 119,
         "title": ["ワールズエンド・ダンスホール", "Waaruzuendo Dansuhooru", "World's End Dancehall"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 18, 26, 30],
         "category": ["Static Image"],
@@ -3938,7 +3938,7 @@ var songs = [
     {
         "id": 120,
         "title": ["いかないで", "Ikanaide", "Do not go"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 18, 25, 29],
         "category": ["3D MV"],
@@ -3978,7 +3978,7 @@ var songs = [
     {
         "id": 121,
         "title": ["ロミオとシンデレラ", "Romio to Shinderera", "Romeo & Cinderella"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 24, 27],
         "category": ["3D MV"],
@@ -4034,7 +4034,7 @@ var songs = [
     {
         "id": 122,
         "title": ["ポジティブ☆ダンスタイム", "Pojitibu☆Dansu Taimu", "Positive☆Dance Time"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 18, 26, 31],
         "category": ["2D MV"],
@@ -4098,7 +4098,7 @@ var songs = [
     {
         "id": 123,
         "title": ["どりーみんチュチュ", "Doriimin Chuchu", "dreaming chuchu"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 17, 23, 27],
         "category": ["Original MV", "2D MV"],
@@ -4162,7 +4162,7 @@ var songs = [
     {
         "id": 124,
         "title": ["みくみくにしてあげる♪【してやんよ】", "Miku Miku ni Shite Ageru♪ (Shite Yan yo)", "Mikumiku Ni Shiteageru [Shiteyanyo]"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 24, 28],
         "category": ["Static Image"],
@@ -4186,7 +4186,7 @@ var songs = [
     {
         "id": 125,
         "title": ["ボッカデラベリタ", "Bokka dera Berita", "Bocca della Verità"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 18, 25, 28],
         "category": ["2D MV"],
@@ -4226,7 +4226,7 @@ var songs = [
     {
         "id": 126,
         "title": ["シネマ", "Shinema", "Cinema"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 24, 29],
         "category": ["3D MV", "2D MV"],
@@ -4274,7 +4274,7 @@ var songs = [
     {
         "id": 127,
         "title": ["トンデモワンダーズ", "Tondemo Wonders", "Tondemo-Wonderz"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 19, 27, 32],
         "category": ["3D MV", "2D MV"],
@@ -4346,7 +4346,7 @@ var songs = [
     {
         "id": 128,
         "title": ["Brand New Day"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 19, 28, 32],
         "category": ["Static Image"],
@@ -4370,7 +4370,7 @@ var songs = [
     {
         "id": 129,
         "title": ["ビターチョコデコレーション", "Bitaa Choko Dekoreeshon", "Bitter Choco Decoration"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 19, 25, 31],
         "category": ["3D MV"],
@@ -4434,7 +4434,7 @@ var songs = [
     {
         "id": 130,
         "title": ["フロムトーキョー", "Furomu Tokyo", "From Tokyo"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 24, 28],
         "category": ["3D MV"],
@@ -4498,7 +4498,7 @@ var songs = [
     {
         "id": 131,
         "title": ["初音ミクの激唱", "Hatsune Miku no Gekishou", "The Intense Voice of Hatsune Miku"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 20, 30, 34, 35],
         "category": ["Static Image"],
@@ -4530,7 +4530,7 @@ var songs = [
     {
         "id": 132,
         "title": ["「１」", "「1」"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 16, 23, 26],
         "category": ["2D MV"],
@@ -4594,7 +4594,7 @@ var songs = [
     {
         "id": 133,
         "title": ["悪魔の踊り方", "Akuma no Odorikata", "Devil's Manner"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [5, 12, 19, 26, 30],
         "category": ["3D MV", "2D MV"],
@@ -4634,7 +4634,7 @@ var songs = [
     {
         "id": 134,
         "title": ["テレキャスタービーボーイ", "Terekyasutaa Bibooi", "Telecaster B-Boy"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 18, 25, 29],
         "category": ["Original MV"],
@@ -4690,7 +4690,7 @@ var songs = [
     {
         "id": 135,
         "title": ["六兆年と一夜物語", "Roku-chou Nen to Ichiya Monogatari", "Six Trillion Years and Overnight Story"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 20, 29, 34],
         "category": ["2D MV"],
@@ -4738,7 +4738,7 @@ var songs = [
     {
         "id": 136,
         "title": ["チルドレンレコード", "Chirudoren Rekoodo", "Children Record"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 19, 27, 32],
         "category": ["3D MV"],
@@ -4794,7 +4794,7 @@ var songs = [
     {
         "id": 137,
         "title": ["花を唄う", "Hana wo Utau", "Singing of a flower"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 19, 25, 30],
         "category": ["Static Image"],
@@ -4818,7 +4818,7 @@ var songs = [
     {
         "id": 138,
         "title": ["KING"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 14, 19, 25, 29],
         "category": ["2D MV"],
@@ -4866,7 +4866,7 @@ var songs = [
     {
         "id": 139,
         "title": ["夜に駆ける", "Yoru ni Kakeru", "Into the Night"],
-        "bands": ["VIRTUAL SINGER", "Leo/need", "MORE MORE JUMP!", "Vivid BAD SQUAD", "Wonderlands x Showtime", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Leo/need", "MORE MORE JUMP!", "Vivid BAD SQUAD", "Wonderlands x Showtime", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 18, 25, 29],
         "category": ["Static Image"],
@@ -4946,7 +4946,7 @@ var songs = [
     {
         "id": 140,
         "title": ["アイスドロップ", "Aisu Doroppu", "icedrop"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 18, 24, 27],
         "category": ["3D MV"],
@@ -4994,7 +4994,7 @@ var songs = [
     {
         "id": 141,
         "title": ["群青讃歌", "Gunjou Sanka"],
-        "bands": ["VIRTUAL SINGER","Leo/need", "MORE MORE JUMP!", "Vivid BAD SQUAD", "Wonderlands x Showtime", "Nightcord at 25:00", "Other"],
+        "groups": ["VIRTUAL SINGER","Leo/need", "MORE MORE JUMP!", "Vivid BAD SQUAD", "Wonderlands x Showtime", "Nightcord at 25:00", "Other"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 17, 24, 27],
         "category": ["3D MV", "2D MV"],
@@ -5074,7 +5074,7 @@ var songs = [
     {
         "id": 142,
         "title": ["再生", "Saisei", "Reborn"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 15, 22, 26],
         "category": ["3D MV"],
@@ -5130,7 +5130,7 @@ var songs = [
     {
         "id": 143,
         "title": ["トラフィック・ジャム", "Torafikku Jyamu", "Traffic jam"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 18, 24, 28],
         "category": ["Original MV", "2D MV"],
@@ -5186,7 +5186,7 @@ var songs = [
     {
         "id": 144,
         "title": ["アイノマテリアル", "Ai no Material", "Love material"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 16, 22, 26],
         "category": ["2D MV"],
@@ -5234,7 +5234,7 @@ var songs = [
     {
         "id": 145,
         "title": ["ベノム", "Benomu", "Venom"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 18, 26, 29],
         "category": ["Static Image"],
@@ -5298,7 +5298,7 @@ var songs = [
     {
         "id": 146,
         "title": ["リモコン", "Rimokon", "Remote Control"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 24, 29],
         "category": ["Static Image"],
@@ -5330,7 +5330,7 @@ var songs = [
     {
         "id": 147,
         "title": ["からくりピエロ", "Karakuri Piero", "Karakuri Pierrot"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 16, 23, 27],
         "category": ["3D MV"],
@@ -5378,7 +5378,7 @@ var songs = [
     {
         "id": 148,
         "title": ["ray"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 16, 24, 26],
         "category": ["3D MV", "2D MV"],
@@ -5410,7 +5410,7 @@ var songs = [
     {
         "id": 149,
         "title": ["カナデトモスソラ", "Kanade Tomosu Sora", "Kanadetomosusora"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 15, 22, 26],
         "category": ["2D MV"],
@@ -5482,7 +5482,7 @@ var songs = [
     {
         "id": 150,
         "title": ["トキヲ・ファンカ", "Tokio Fanka", "TOKIO FUNKA"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 18, 25, 28],
         "category": ["Original MV"],
@@ -5506,7 +5506,7 @@ var songs = [
     {
         "id": 151,
         "title": ["泡沫未来", "Utakata Mirai", "The Bubble Future"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 17, 25, 29],
         "category": ["Static Image"],
@@ -5530,7 +5530,7 @@ var songs = [
     {
         "id": 152,
         "title": ["だれかの心臓になれたなら", "Dareka no Shinzou ni Nareta", "I want to be your heart"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 18, 25, 29],
         "category": ["Original MV"],
@@ -5554,7 +5554,7 @@ var songs = [
     {
         "id": 153,
         "title": ["Miku"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 24, 28],
         "category": ["3D MV"],
@@ -5578,7 +5578,7 @@ var songs = [
     {
         "id": 154,
         "title": ["地球最後の告白を", "Chikyuu Saigo no Kokuhaku o"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 18, 25, 31],
         "category": ["2D MV"],
@@ -5642,7 +5642,7 @@ var songs = [
     {
         "id": 155,
         "title": ["心拍数♯0822", "Shinpakusuu#0822", "Heartbeat #0822"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 16, 23, 26],
         "category": ["2D MV"],
@@ -5690,7 +5690,7 @@ var songs = [
     {
         "id": 156,
         "title": ["Beat Eater"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 17, 25, 28],
         "category": ["2D MV"],
@@ -5762,7 +5762,7 @@ var songs = [
     {
         "id": 157,
         "title": ["マシュマリー", "Mashumarii", "Marshmary"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [8, 11, 18, 26, 29],
         "category": ["Static Image"],
@@ -5810,7 +5810,7 @@ var songs = [
     {
         "id": 158,
         "title": ["ナンセンス文学", "Nansensu Bungaku", "Literary nonsense"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [7, 11, 18, 25, 29],
         "category": ["Original MV", "2D MV"],
@@ -5866,7 +5866,7 @@ var songs = [
     {
         "id": 159,
         "title": ["STAGE OF SEKAI"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 17, 25, 30],
         "category": ["3D MV", "2D MV"],
@@ -5938,7 +5938,7 @@ var songs = [
     {
         "id": 160,
         "title": ["ショウタイム・ルーラー", "Shoutaimu Ruuraa", "Showtime Ruler"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 19, 25, 31],
         "category": ["3D MV"],
@@ -5994,7 +5994,7 @@ var songs = [
     {
         "id": 161,
         "title": ["magic number"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 18, 25, 29],
         "category": ["2D MV"],
@@ -6018,7 +6018,7 @@ var songs = [
     {
         "id": 162,
         "title": ["エンドマークに希望と涙を添えて", "Endomaaku ni Kibou to Namida wo Soete", "End Mark ni Kibou to Namida wo soete"],
-        "bands": ["Other"],
+        "groups": ["Other"],
         "server": ["EN", "JP"],
         "difficulties": [9, 15, 23, 31, 35],
         "category": ["Original MV"],
@@ -6042,7 +6042,7 @@ var songs = [
     {
         "id": 163,
         "title": ["the EmpErroR"],
-        "bands": ["Other"],
+        "groups": ["Other"],
         "server": ["EN", "JP"],
         "difficulties": [9, 15, 23, 31, 36],
         "category": ["Original MV"],
@@ -6066,7 +6066,7 @@ var songs = [
     {
         "id": 164,
         "title": ["Don't Fight The Music"],
-        "bands": ["Other"],
+        "groups": ["Other"],
         "server": ["EN", "JP"],
         "difficulties": [9, 15, 23, 30, 36],
         "category": ["Static Image"],
@@ -6090,7 +6090,7 @@ var songs = [
     {
         "id": 165,
         "title": ["そうだった！！", "Sou Datta!!"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 14, 19, 27, 31],
         "category": ["Static Image"],
@@ -6114,7 +6114,7 @@ var songs = [
     {
         "id": 166,
         "title": ["Glory Steady Go!"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 18, 25, 30],
         "category": ["2D MV"],
@@ -6154,7 +6154,7 @@ var songs = [
     {
         "id": 167,
         "title": ["オルターエゴ", "Orutaa Ego", "Alter Ego"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 17, 26, 31],
         "category": ["Static Image"],
@@ -6210,7 +6210,7 @@ var songs = [
     {
         "id": 168,
         "title": ["ダーリンダンス", "Daarin Dansu", "DarlingDance"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 25, 30],
         "category": ["Static Image"],
@@ -6242,7 +6242,7 @@ var songs = [
     {
         "id": 169,
         "title": ["少女レイ", "Shoujorei", "Shoujo Rei"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [7, 14, 17, 24, 27],
         "category": ["3D MV", "2D MV"],
@@ -6290,7 +6290,7 @@ var songs = [
     {
         "id": 170,
         "title": ["ヴィラン", "Viran", "villain"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 18, 25, 29],
         "category": ["3D MV"],
@@ -6338,7 +6338,7 @@ var songs = [
     {
         "id": 171,
         "title": ["カゲロウデイズ", "Kagerou Deizu", "Kagerou Daze"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 19, 27, 31],
         "category": ["Static Image"],
@@ -6410,7 +6410,7 @@ var songs = [
     {
         "id": 172,
         "title": ["Happy Halloween"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [5, 12, 16, 25, 30],
         "category": ["Original MV"],
@@ -6466,7 +6466,7 @@ var songs = [
     {
         "id": 173,
         "title": ["流星のパルス", "Ryuusei no Parusu", "Pulse of the Meteor"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 17, 25, 30],
         "category": ["2D MV"],
@@ -6522,7 +6522,7 @@ var songs = [
     {
         "id": 174,
         "title": ["いーあるふぁんくらぶ", "Ii Aru Fan Kurabu", "1, 2, Fanclub"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 24, 28],
         "category": ["3D MV", "2D MV"],
@@ -6562,7 +6562,7 @@ var songs = [
     {
         "id": 175,
         "title": ["拝啓ドッペルゲンガー", "Haikei Dopperugengaa", "Haikei Doppelganger"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 19, 28, 32],
         "category": ["Static Image"],
@@ -6586,7 +6586,7 @@ var songs = [
     {
         "id": 176,
         "title": ["マシンガンポエムドール", "Mashin Gan Poemu Dooru", "MACHINEGUN POEM DOLL"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 23, 31, 34],
         "category": ["2D MV"],
@@ -6610,7 +6610,7 @@ var songs = [
     {
         "id": 177,
         "title": ["右肩の蝶", "Migikata no Chou", "Butterfly on Your Right Shoulder"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 25, 31],
         "category": ["Static Image"],
@@ -6634,7 +6634,7 @@ var songs = [
     {
         "id": 178,
         "title": ["にっこり^^調査隊のテーマ", "Niccori^^Chousa-tai no Tema", "Theme of Niccori Survey Team"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 18, 27, 31],
         "category": ["3D MV"],
@@ -6682,7 +6682,7 @@ var songs = [
     {
         "id": 179,
         "title": ["炉心融解", "Roshin Yuukai", "Roshin Yuukai (meltdown)"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 24, 27],
         "category": ["Static Image"],
@@ -6706,7 +6706,7 @@ var songs = [
     {
         "id": 180,
         "title": ["ミライ", "Mirai"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 24, 28],
         "category": ["3D MV", "2D MV"],
@@ -6762,7 +6762,7 @@ var songs = [
     {
         "id": 181,
         "title": ["愛して愛して愛して", "Aishite Aishite Aishite", "Love Me, Love Me, Love Me"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [5, 12, 16, 25, 28],
         "category": ["3D MV"],
@@ -6810,7 +6810,7 @@ var songs = [
     {
         "id": 182,
         "title": ["Flyer!"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [9, 12, 18, 24, 29],
         "category": ["3D MV", "2D MV"],
@@ -6858,7 +6858,7 @@ var songs = [
     {
         "id": 183,
         "title": ["フィクサー", "Fikusaa", "fixer"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 19, 26, 31],
         "category": ["Static Image"],
@@ -6914,7 +6914,7 @@ var songs = [
     {
         "id": 184,
         "title": ["Hello,world!"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 17, 25, 29],
         "category": ["2D MV"],
@@ -6946,7 +6946,7 @@ var songs = [
     {
         "id": 185,
         "title": ["しっくおぶはうす！", "Shikku obu Hausu!", "Sick of House!"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 17, 26, 30],
         "category": ["Static Image"],
@@ -6970,7 +6970,7 @@ var songs = [
     {
         "id": 186,
         "title": ["初音天地開闢神話", "Hatsune Tenchikaibyaku Shinwa", "Hatsune Creation Myth"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 20, 28, 32],
         "category": ["Original MV"],
@@ -6994,7 +6994,7 @@ var songs = [
     {
         "id": 187,
         "title": ["ロウワー", "Rouwaa", "Lower one's eye"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 26, 31],
         "category": ["2D MV"],
@@ -7058,7 +7058,7 @@ var songs = [
     {
         "id": 188,
         "title": ["心予報", "Kokoroyohou", "Heart forecast"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 24, 28],
         "category": ["Original MV", "2D MV"],
@@ -7106,7 +7106,7 @@ var songs = [
     {
         "id": 189,
         "title": ["ノマド", "Nomado", "Nomad"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 16, 23, 26],
         "category": ["3D MV"],
@@ -7162,7 +7162,7 @@ var songs = [
     {
         "id": 190,
         "title": ["悪ノ娘", "Aku no Musume", "The Daughter of Evil"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 24, 27],
         "category": ["Static Image"],
@@ -7186,7 +7186,7 @@ var songs = [
     {
         "id": 191,
         "title": ["悪ノ召使", "Aku no Meshitsukai", "The Servant of Evil"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 24, 27],
         "category": ["Static Image"],
@@ -7210,7 +7210,7 @@ var songs = [
     {
         "id": 192,
         "title": ["去り人達のワルツ", "Saribitotachi no Waruzu", "Waltz of the Deceased"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 17, 23, 28],
         "category": ["Static Image"],
@@ -7234,7 +7234,7 @@ var songs = [
     {
         "id": 193,
         "title": ["ワールドワイドワンダー", "Warudowaidowanda", "Worldwide Wander"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 18, 24, 28],
         "category": ["2D MV"],
@@ -7282,7 +7282,7 @@ var songs = [
     {
         "id": 194,
         "title": ["妄想感傷代償連盟", "Mousou Kanshou Daishou Renmei", "DSCF"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 16, 23, 27],
         "category": ["Original MV"],
@@ -7330,7 +7330,7 @@ var songs = [
     {
         "id": 195,
         "title": ["PaIII.SENSATION"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 17, 24, 29],
         "category": ["3D MV", "2D MV"],
@@ -7370,7 +7370,7 @@ var songs = [
     {
         "id": 196,
         "title": ["オーダーメイド", "Odameido", "Made to Order"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 16, 21, 26],
         "category": ["3D MV"],
@@ -7426,7 +7426,7 @@ var songs = [
     {
         "id": 197,
         "title": ["ラストスコア", "Rasuto Sukora", "Last Score"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 18, 26, 30],
         "category": ["Static Image"],
@@ -7450,7 +7450,7 @@ var songs = [
     {
         "id": 198,
         "title": ["グッバイ宣言", "Gubbai Sengen", "Goodbye Declaration"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 26, 30],
         "category": ["Static Image"],
@@ -7490,7 +7490,7 @@ var songs = [
     {
         "id": 199,
         "title": ["ゴーストルール", "Goosuto Ruuru", "Ghost Rule"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 19, 27, 32],
         "category": ["Static Image"],
@@ -7538,7 +7538,7 @@ var songs = [
     {
         "id": 200,
         "title": ["ガランド", "Garando", "Airhead"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 18, 24, 28],
         "category": ["Static Image"],
@@ -7578,7 +7578,7 @@ var songs = [
     {
         "id": 201,
         "title": ["神のまにまに", "Kami no Manimani", "At God's Mercy"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 18, 25, 29],
         "category": ["3D MV"],
@@ -7642,7 +7642,7 @@ var songs = [
     {
         "id": 202,
         "title": ["Q"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [5, 12, 17, 24, 28],
         "category": ["Static Image"],
@@ -7666,7 +7666,7 @@ var songs = [
     {
         "id": 203,
         "title": ["トリコロージュ", "Torikorooju", "Tricologe"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 18, 24, 28],
         "category": ["2D MV"],
@@ -7722,7 +7722,7 @@ var songs = [
     {
         "id": 204,
         "title": ["うっせぇわ", "Usseewa"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 17, 24, 28],
         "category": ["Original MV"],
@@ -7770,7 +7770,7 @@ var songs = [
     {
         "id": 205,
         "title": ["踊", "Odo"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 18, 26, 29],
         "category": ["Original MV"],
@@ -7818,7 +7818,7 @@ var songs = [
     {
         "id": 206,
         "title": ["君色マリンスノウ", "Kimiiro Marin Sunou", "Colorful Marine Snow"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 19, 28, 31],
         "category": ["Original MV"],
@@ -7842,7 +7842,7 @@ var songs = [
     {
         "id": 207,
         "title": ["Peaky Peaky"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 25, 28],
         "category": ["2D MV"],
@@ -7906,7 +7906,7 @@ var songs = [
     {
         "id": 208,
         "title": ["僕らまだアンダーグラウンド", "Bokura Mada Underground", "We're Still Underground"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 18, 25, 28],
         "category": ["Original MV", "2D MV"],
@@ -7946,7 +7946,7 @@ var songs = [
     {
         "id": 209,
         "title": ["メタモリボン", "Metamoribon", "Metamo Re:born"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 16, 23, 26],
         "category": ["2D MV"],
@@ -7994,7 +7994,7 @@ var songs = [
     {
         "id": 210,
         "title": ["雨とペトラ", "Ame to Petra", "Rain and Petra"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [9, 12, 18, 25, 29],
         "category": ["Static Image"],
@@ -8050,7 +8050,7 @@ var songs = [
     {
         "id": 211,
         "title": ["イフ", "Ifu", "IF"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 23, 27],
         "category": ["3D MV", "2D MV"],
@@ -8106,7 +8106,7 @@ var songs = [
     {
         "id": 212,
         "title": ["星空のメロディー", "Hoshizora no Merodii", "Starry sky melody"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 16, 24, 27],
         "category": ["3D MV"],
@@ -8154,7 +8154,7 @@ var songs = [
     {
         "id": 213,
         "title": ["ヴァンパイア", "Banpaia", "The Vampire"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 18, 25, 29],
         "category": ["3D MV", "2D MV"],
@@ -8202,7 +8202,7 @@ var songs = [
     {
         "id": 214,
         "title": ["パレットには君がいっぱい", "Paretto ni wa Kimi ga Ippai", "My Palette is Full of You"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [5, 11, 17, 25, 28],
         "category": ["Static Image"],
@@ -8226,7 +8226,7 @@ var songs = [
     {
         "id": 215,
         "title": ["ジウダス", "Jiudasu", "Judas"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 18, 25, 28],
         "category": ["Static Image"],
@@ -8250,7 +8250,7 @@ var songs = [
     {
         "id": 216,
         "title": ["ルカルカ★ナイトフィーバー", "Ruka Ruka★Naito Fiibaa", "Luka Luka★Night Fever"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 18, 25, 29],
         "category": ["Static Image"],
@@ -8274,7 +8274,7 @@ var songs = [
     {
         "id": 217,
         "title": ["街", "Machi", "City"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 16, 23, 27],
         "category": ["3D MV"],
@@ -8322,7 +8322,7 @@ var songs = [
     {
         "id": 218,
         "title": ["メリュー", "Meryuu", "Meru"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 15, 22, 26],
         "category": ["3D MV"],
@@ -8370,7 +8370,7 @@ var songs = [
     {
         "id": 219,
         "title": ["砂の惑星", "Suna no Wakusei", "DUNE"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 16, 23, 27],
         "category": ["Original MV"],
@@ -8394,7 +8394,7 @@ var songs = [
     {
         "id": 220,
         "title": ["ドーナツホール", "Doonatsu Hooru", "DONUT HOLE"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 18, 25, 29],
         "category": ["Original MV"],
@@ -8418,7 +8418,7 @@ var songs = [
     {
         "id": 221,
         "title": ["マトリョシカ", "Matoryoshika", "MATORYOSHIKA"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 18, 25, 30],
         "category": ["Original MV"],
@@ -8442,7 +8442,7 @@ var songs = [
     {
         "id": 222,
         "title": ["ピアノ×フォルテ×スキャンダル", "Piano×Forute×Sukyandaru", "Piano × Forte × Scandal"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 18, 26, 30],
         "category": ["Static Image"],
@@ -8466,7 +8466,7 @@ var songs = [
     {
         "id": 223,
         "title": ["千年の独奏歌", "Sennen no Dokusouka", "Thousand Year Solo"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 16, 23, 27],
         "category": ["Static Image"],
@@ -8490,7 +8490,7 @@ var songs = [
     {
         "id": 224,
         "title": ["88☆彡", "Hachijuuhachi Hoshi Ryusei"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 18, 26, 29],
         "category": ["2D MV"],
@@ -8554,7 +8554,7 @@ var songs = [
     {
         "id": 225,
         "title": ["エゴロック", "Ego Rokku", "Ego rock"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 18, 25, 31],
         "category": ["3D MV"],
@@ -8586,7 +8586,7 @@ var songs = [
     {
         "id": 226,
         "title": ["ロストエンファウンド", "Rosuto En Faundo", "Lost and Found"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 18, 25, 29],
         "category": ["3D MV"],
@@ -8618,7 +8618,7 @@ var songs = [
     {
         "id": 227,
         "title": ["ONESELF"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 14, 18, 27, 30],
         "category": ["Static Image"],
@@ -8642,7 +8642,7 @@ var songs = [
     {
         "id": 228,
         "title": ["Goodbye"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 23, 27],
         "category": ["Original MV"],
@@ -8666,7 +8666,7 @@ var songs = [
     {
         "id": 229,
         "title": ["脳漿炸裂ガール", "Noushou Sakuretsu Girl", "Brain Fluid Explosion Girl"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 18, 28, 32],
         "category": ["Original MV"],
@@ -8690,7 +8690,7 @@ var songs = [
     {
         "id": 230,
         "title": ["サラマンダー", "Saramandaa", "Salamander"],
-        "bands": ["Other"],
+        "groups": ["Other"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 18, 25, 30],
         "category": ["2D MV"],
@@ -8722,7 +8722,7 @@ var songs = [
     {
         "id": 231,
         "title": ["アイデンティティ", "Aidentiti", "Identity"],
-        "bands": ["VIRTUAL SINGER", "Other"],
+        "groups": ["VIRTUAL SINGER", "Other"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 18, 26, 31],
         "category": ["2D MV"],
@@ -8754,7 +8754,7 @@ var songs = [
     {
         "id": 232,
         "title": ["青色絵具", "Aoiro Enogu", "blue paint"],
-        "bands": ["VIRTUAL SINGER", "Other"],
+        "groups": ["VIRTUAL SINGER", "Other"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 16, 24, 27],
         "category": ["2D MV"],
@@ -8786,7 +8786,7 @@ var songs = [
     {
         "id": 233,
         "title": ["コスモスパイス", "Cosumosupaisu", "Cosmospice"],
-        "bands": ["VIRTUAL SINGER", "Other"],
+        "groups": ["VIRTUAL SINGER", "Other"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 25, 30],
         "category": ["2D MV"],
@@ -8818,7 +8818,7 @@ var songs = [
     {
         "id": 234,
         "title": ["徳川カップヌードル禁止令", "Tokugawa Cappu Nuudoru Kinshirei", "Tokugawa Cupnoodle Prohibition"],
-        "bands": ["Other"],
+        "groups": ["Other"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 19, 27, 31],
         "category": ["2D MV"],
@@ -8842,7 +8842,7 @@ var songs = [
     {
         "id": 235,
         "title": ["Journey"],
-        "bands": ["VIRTUAL SINGER", "Leo/need", "MORE MORE JUMP!", "Vivid BAD SQUAD", "Wonderlands x Showtime", "Nightcord at 25:00", "Other"],
+        "groups": ["VIRTUAL SINGER", "Leo/need", "MORE MORE JUMP!", "Vivid BAD SQUAD", "Wonderlands x Showtime", "Nightcord at 25:00", "Other"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 25, 28],
         "category": ["3D MV", "2D MV"],
@@ -8922,7 +8922,7 @@ var songs = [
     {
         "id": 236,
         "title": ["Voices"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 18, 25, 30],
         "category": ["3D MV"],
@@ -8978,7 +8978,7 @@ var songs = [
     {
         "id": 237,
         "title": ["君の夜をくれ", "kimi no yoruwo kure", "Kimi no Yoru Wo Kure"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 15, 21, 26],
         "category": ["3D MV"],
@@ -9026,7 +9026,7 @@ var songs = [
     {
         "id": 238,
         "title": ["ブラック★ロックシューター", "Burakku ★ Rokku Shuutaa", "Black★Rock Shooter"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 16, 24, 27],
         "category": ["Original MV"],
@@ -9050,7 +9050,7 @@ var songs = [
     {
         "id": 239,
         "title": ["月光", "Gekkou", "Moonlight"],
-        "bands": ["Vivid BAD SQUAD"],
+        "groups": ["Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [5, 12, 18, 25, 29],
         "category": ["2D MV"],
@@ -9114,7 +9114,7 @@ var songs = [
     {
         "id": 240,
         "title": ["踊れオーケストラ", "Odore Ookesutora", "Dance orchestra"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 17, 24, 28],
         "category": ["Static Image"],
@@ -9170,7 +9170,7 @@ var songs = [
     {
         "id": 241,
         "title": ["アサガオの散る頃に", "Asagao no Chiru Koro ni", "When the Morning Glory Falls"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 16, 21, 26],
         "category": ["Original MV"],
@@ -9210,7 +9210,7 @@ var songs = [
     {
         "id": 242,
         "title": ["トリノコシティ", "Torinoko Shiti", "Torinokocity"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 17, 23, 27],
         "category": ["Static Image"],
@@ -9258,7 +9258,7 @@ var songs = [
     {
         "id": 243,
         "title": ["Calc."],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 18, 25, 30],
         "category": ["Static Image"],
@@ -9290,7 +9290,7 @@ var songs = [
     {
         "id": 244,
         "title": ["Awake Now"],
-        "bands": ["Vivid BAD SQUAD"],
+        "groups": ["Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 24, 30],
         "category": ["2D MV"],
@@ -9346,7 +9346,7 @@ var songs = [
     {
         "id": 245,
         "title": ["阿吽のビーツ", "Aun no Biitsu", "Aun no Beats"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 18, 23, 28],
         "category": ["Original MV"],
@@ -9378,7 +9378,7 @@ var songs = [
     {
         "id": 246,
         "title": ["エイリアンエイリアン", "Eirian Eirian", "Alien Alien"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 18, 25, 29],
         "category": ["Static Image"],
@@ -9418,7 +9418,7 @@ var songs = [
     {
         "id": 247,
         "title": ["Copycat"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 16, 23, 27],
         "category": ["Original MV"],
@@ -9442,7 +9442,7 @@ var songs = [
     {
         "id": 248,
         "title": ["バグ", "Bagu", "bug"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 19, 26, 32],
         "category": ["2D MV"],
@@ -9506,7 +9506,7 @@ var songs = [
     {
         "id": 249,
         "title": ["ぼくらの16bit戦争", "Bokura no 16bit Sensou", "Our 16bit Wars"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 17, 28, 33],
         "category": ["Original MV"],
@@ -9530,7 +9530,7 @@ var songs = [
     {
         "id": 250,
         "title": ["腐れ外道とチョコレゐト", "Kusaregedo to Chokoreito", "Kusare-gedou and Chocolate"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 21, 30, 34],
         "category": ["Static Image"],
@@ -9554,7 +9554,7 @@ var songs = [
     {
         "id": 251,
         "title": ["フロイライン＝ビブリォチカ", "Furoirain=Biburochika", "Fräulein=Biblioteca", "Fräulein=библиотека"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 18, 27, 31],
         "category": ["Static Image"],
@@ -9578,7 +9578,7 @@ var songs = [
     {
         "id": 252,
         "title": ["DREAM PLACE"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 25, 28],
         "category": ["3D MV"],
@@ -9618,7 +9618,7 @@ var songs = [
     {
         "id": 253,
         "title": ["DAYBREAK FRONTLINE"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 19, 25, 29],
         "category": ["3D MV"],
@@ -9650,7 +9650,7 @@ var songs = [
     {
         "id": 254,
         "title": ["未完成讃歌", "Mikansei Sanka", "Incomplete Anthem"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 18, 27, 31],
         "category": ["Static Image"],
@@ -9674,7 +9674,7 @@ var songs = [
     {
         "id": 255,
         "title": ["夜もすがら君想ふ", "Yomosugara Kimi Omou", "yomosugara kimi omou"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 16, 24, 28],
         "category": ["Static Image"],
@@ -9722,7 +9722,7 @@ var songs = [
     {
         "id": 256,
         "title": ["ダブルラリアット", "Daburu Rariatto", "Double Lariat"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 16, 23, 27],
         "category": ["Static Image"],
@@ -9746,7 +9746,7 @@ var songs = [
     {
         "id": 257,
         "title": ["てらてら", "Teratera", "SHOW OFF"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 18, 24, 30],
         "category": ["2D MV"],
@@ -9794,7 +9794,7 @@ var songs = [
     {
         "id": 258,
         "title": ["深海少女", "Shinkai Shoujo", "Deep-Sea Girl"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["JP"],
         "difficulties": [6, 12, 16, 23, 27],
         "category": ["Original MV"],
@@ -9826,7 +9826,7 @@ var songs = [
     {
         "id": 259,
         "title": ["the WALL"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 17, 25, 30],
         "category": ["3D MV"],
@@ -9858,7 +9858,7 @@ var songs = [
     {
         "id": 260,
         "title": ["ラブカ？", "Rabu ka?", "Love Ka?"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 25, 28],
         "category": ["3D MV"],
@@ -9890,7 +9890,7 @@ var songs = [
     {
         "id": 261,
         "title": ["星屑ユートピア", "Hoshikuzu Utopia", "Stardust Utopia"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 12, 17, 25, 29],
         "category": ["Static Image"],
@@ -9914,7 +9914,7 @@ var songs = [
     {
         "id": 262,
         "title": ["帝国少女", "Teikoku Shoujo", "Imperial Girl"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 17, 24, 28],
         "category": ["Static Image"],
@@ -9946,7 +9946,7 @@ var songs = [
     {
         "id": 263,
         "title": ["Highlight"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 16, 23, 27],
         "category": ["Original MV"],
@@ -9970,7 +9970,7 @@ var songs = [
     {
         "id": 264,
         "title": ["パラソルサイダー", "Parasoru Saidaa", "Parasol Cider"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 17, 25, 30],
         "category": ["2D MV"],
@@ -10018,7 +10018,7 @@ var songs = [
     {
         "id": 265,
         "title": ["Change me"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 23, 28],
         "category": ["Static Image"],
@@ -10042,7 +10042,7 @@ var songs = [
     {
         "id": 266,
         "title": ["YY"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 25, 29],
         "category": ["Original MV"],
@@ -10074,7 +10074,7 @@ var songs = [
     {
         "id": 267,
         "title": ["仮死化", "Kashika"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 17, 23, 28],
         "category": ["3D MV"],
@@ -10106,7 +10106,7 @@ var songs = [
     {
         "id": 268,
         "title": ["ノンブレス・オブリージュ", "Non Buresu Oburiiju", "Non-breath oblige"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 26, 30],
         "category": ["3D MV"],
@@ -10138,7 +10138,7 @@ var songs = [
     {
         "id": 269,
         "title": ["ロンリーユニバース", "Ronrii Yunibaasu", "Lonely Universe"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [5, 12, 17, 23, 27],
         "category": ["Static Image"],
@@ -10170,7 +10170,7 @@ var songs = [
     {
         "id": 270,
         "title": ["泥中に咲く", "Deichuu ni Saku", "Bloom in mud"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 17, 22, 26],
         "category": ["Static Image"],
@@ -10202,7 +10202,7 @@ var songs = [
     {
         "id": 271,
         "title": ["あったかいと", "Attakaito", "AttaKAITO"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 18, 24, 29],
         "category": ["Static Image"],
@@ -10226,7 +10226,7 @@ var songs = [
     {
         "id": 272,
         "title": ["ジェヘナ", "Jehena", "Gehenna"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 18, 25, 30],
         "category": ["Original MV"],
@@ -10258,7 +10258,7 @@ var songs = [
     {
         "id": 273,
         "title": ["フューチャー・イヴ", "Fyuuchaa Ibu", "FUTURE EVE"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 19, 27, 32],
         "category": ["Original MV"],
@@ -10282,7 +10282,7 @@ var songs = [
     {
         "id": 274,
         "title": ["それでもいいんだよ", "Soredemo Ii nda yo", "Even so, It's OK"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 24, 29],
         "category": ["Static Image"],
@@ -10306,7 +10306,7 @@ var songs = [
     {
         "id": 275,
         "title": ["パラジクロロベンゼン", "Parajikurorobenzen", "paradichloronbenzene"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 18, 24, 28],
         "category": ["Static Image"],
@@ -10330,7 +10330,7 @@ var songs = [
     {
         "id": 276,
         "title": ["シャンティ", "Shanti"],
-        "bands": ["Vivid BAD SQUAD"],
+        "groups": ["Vivid BAD SQUAD"],
         "server": ["JP"],
         "difficulties": [6, 13, 18, 25, 30],
         "category": ["Original MV"],
@@ -10362,7 +10362,7 @@ var songs = [
     {
         "id": 277,
         "title": ["フォニイ", "Fonii", "phony"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 18, 24, 29],
         "category": ["Static Image"],
@@ -10394,7 +10394,7 @@ var songs = [
     {
         "id": 278,
         "title": ["Bad ∞ End ∞ Night"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 18, 25, 29],
         "category": ["Original MV"],
@@ -10418,7 +10418,7 @@ var songs = [
     {
         "id": 279,
         "title": ["こちら、幸福安心委員会です。", "Kochira, Koufuku Anshin Iinkai desu.", "This is the Happiness and Peace of Mind Committee"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [],
         "category": ["Static Image"],
@@ -10442,7 +10442,7 @@ var songs = [
     {
         "id": 280,
         "title": ["虚ろを扇ぐ", "Utsuro wo Aogu", "Hollow"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 17, 23, 27],
         "category": ["2D MV"],
@@ -10490,7 +10490,7 @@ var songs = [
     {
         "id": 281,
         "title": ["気まぐれメルシィ", "Kimagure Merushii", "Kimagure Mercy"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 18, 25, 30],
         "category": ["3D MV"],
@@ -10522,7 +10522,7 @@ var songs = [
     {
         "id": 282,
         "title": ["星空オーケストラ", "Hoshizora Ookesutora", "Hoshizora Orchestra"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [9, 12, 17, 23, 28],
         "category": ["3D MV"],
@@ -10562,7 +10562,7 @@ var songs = [
     {
         "id": 283,
         "title": ["レイニースノードロップ", "Reinii Sunoodoroppu", "Rainy Snowdrop"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 14, 17, 25, 30],
         "category": ["3D MV"],
@@ -10586,7 +10586,7 @@ var songs = [
     {
         "id": 284,
         "title": ["インビジブル", "Inbijiburu", "Invisible"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 19, 28, 32],
         "category": ["Static Image"],
@@ -10610,7 +10610,7 @@ var songs = [
     {
         "id": 285,
         "title": ["ÅMARA(大未来電脳)", "ÅMARA (Dai Mirai Dennou)", "ÅMARA(The Great Intelligence)"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 14, 19, 28, 34],
         "category": ["2D MV"],
@@ -10634,7 +10634,7 @@ var songs = [
     {
         "id": 286,
         "title": ["Hello, Worker"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 17, 25, 28],
         "category": ["3D MV"],
@@ -10666,7 +10666,7 @@ var songs = [
     {
         "id": 287,
         "title": ["私は、私達は", "Watashi wa, Watashitachi wa", "We Are"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [7, 12, 18, 24, 27],
         "category": ["3D MV"],
@@ -10690,7 +10690,7 @@ var songs = [
     {
         "id": 288,
         "title": ["アンハッピーリフレイン", "Anhappirifurein", "Unhappy Refrain"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 19, 26, 31],
         "category": ["Static Image"],
@@ -10714,7 +10714,7 @@ var songs = [
     {
         "id": 289,
         "title": ["天ノ弱", "Amanojaku"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 17, 25, 29],
         "category": ["Static Image"],
@@ -10754,7 +10754,7 @@ var songs = [
     {
         "id": 290,
         "title": ["どんな結末がお望みだい？", "Donna Ketsumatsu ga Onozomi dai?", "What Sort of Ending Are You Wishing For?"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 17, 24, 28],
         "category": ["2D MV"],
@@ -10794,7 +10794,7 @@ var songs = [
     {
         "id": 291,
         "title": ["フェレス", "Feresu", "Pheles"],
-        "bands": ["Vivid BAD SQUAD"],
+        "groups": ["Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 18, 26, 30],
         "category": ["Original MV"],
@@ -10826,7 +10826,7 @@ var songs = [
     {
         "id": 292,
         "title": ["いちにのさんで", "Ichi Ni no San de"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 15, 22, 26],
         "category": ["Static Image"],
@@ -10850,7 +10850,7 @@ var songs = [
     {
         "id": 293,
         "title": ["アイロニ", "Aironi", "Irony"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 17, 23, 28],
         "category": ["Original MV"],
@@ -10882,7 +10882,7 @@ var songs = [
     {
         "id": 294,
         "title": ["それがあなたの幸せとしても", "Sore ga Anata no Shiawase to Shite mo", "Sorega Anata No Shiawase To Shitemo"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [5, 11, 16, 22, 26],
         "category": ["Static Image"],
@@ -10914,7 +10914,7 @@ var songs = [
     {
         "id": 295,
         "title": ["フロート・プランナー", "Furooto Purannaa", "Float Planner"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["EN", "JP"],
         "difficulties": [6, 13, 17, 23, 27],
         "category": ["2D MV"],
@@ -10962,7 +10962,7 @@ var songs = [
     {
         "id": 296,
         "title": ["カンタレラ", "Kantarera", "Cantarella"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 24, 29],
         "category": ["Original MV"],
@@ -10986,7 +10986,7 @@ var songs = [
     {
         "id": 297,
         "title": ["p.h."],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 24, 29],
         "category": ["Original MV"],
@@ -11010,7 +11010,7 @@ var songs = [
     {
         "id": 298,
         "title": ["ネトゲ廃人シュプレヒコール", "Netoge Haijin Shupurehikooru", "ONLINE GAME ADDICTS SPRECHCHOR"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 18, 25, 30],
         "category": ["Static Image"],
@@ -11042,7 +11042,7 @@ var songs = [
     {
         "id": 299,
         "title": ["エゴイスト", "Egoisuto", "Egoist"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["JP"],
         "difficulties": [8, 14, 18, 26, 31],
         "category": ["3D MV"],
@@ -11074,7 +11074,7 @@ var songs = [
     {
         "id": 300,
         "title": ["ザムザ", "Zamuza", "Samsa"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["JP"],
         "difficulties": [5, 13, 18, 25, 30],
         "category": ["3D MV"],
@@ -11106,7 +11106,7 @@ var songs = [
     {
         "id": 301,
         "title": ["私の恋はヘルファイア", "Watashi no Koi wa Hellfire", "My Love is Hellfire"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [9, 13, 18, 27, 31],
         "category": ["3D MV"],
@@ -11130,7 +11130,7 @@ var songs = [
     {
         "id": 302,
         "title": ["フレー", "Furee", "Hurray"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 17, 26, 30],
         "category": ["2D MV"],
@@ -11162,7 +11162,7 @@ var songs = [
     {
         "id": 303,
         "title": ["リンちゃんなう！", "Rin-chan Nau!", "Rin-chan Now!"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 12, 18, 25, 29],
         "category": ["Original MV"],
@@ -11186,7 +11186,7 @@ var songs = [
     {
         "id": 304,
         "title": ["Iなんです", "I Nandesu", "I am you"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 18, 26, 31],
         "category": ["2D MV"],
@@ -11226,7 +11226,7 @@ var songs = [
     {
         "id": 305,
         "title": ["ストロボラスト", "Sutorobo Rasuto", "Strobe Last"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [5, 12, 16, 23, 28],
         "category": ["Static Image"],
@@ -11250,7 +11250,7 @@ var songs = [
     {
         "id": 306,
         "title": ["1925"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 17, 24, 28],
         "category": ["Static Image"],
@@ -11282,7 +11282,7 @@ var songs = [
     {
         "id": 307,
         "title": ["おこちゃま戦争", "Okochama Sensou", "Childish War"],
-        "bands": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
+        "groups": ["VIRTUAL SINGER", "Wonderlands x Showtime"],
         "server": ["JP"],
         "difficulties": [8, 13, 18, 27, 30],
         "category": ["3D MV"],
@@ -11314,7 +11314,7 @@ var songs = [
     {
         "id": 308,
         "title": ["ももいろの鍵", "Momoiro no Kagi", "Peach-Colored Key"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["JP"],
         "difficulties": [7, 13, 19, 26, 30],
         "category": ["3D MV"],
@@ -11354,7 +11354,7 @@ var songs = [
     {
         "id": 309,
         "title": ["Afterglow"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [8, 11, 16, 23, 27],
         "category": ["3D MV"],
@@ -11378,7 +11378,7 @@ var songs = [
     {
         "id": 310,
         "title": ["Flyway"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 17, 24, 28],
         "category": ["2D MV"],
@@ -11410,7 +11410,7 @@ var songs = [
     {
         "id": 311,
         "title": ["夜明けと蛍", "Yoake to Hotaru", "Dawn and Fireflies"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [5, 10, 15, 22, 26],
         "category": ["Static Image"],
@@ -11434,7 +11434,7 @@ var songs = [
     {
         "id": 312,
         "title": ["ココロ", "kokoro"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 16, 24, 28],
         "category": ["Static Image"],
@@ -11458,7 +11458,7 @@ var songs = [
     {
         "id": 313,
         "title": ["FREELY TOMORROW"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 16, 24, 29],
         "category": ["Original MV"],
@@ -11482,7 +11482,7 @@ var songs = [
     {
         "id": 314,
         "title": ["陽だまりのセツナ", "Hidamari no Setsuna"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 17, 23, 28],
         "category": ["Static Image"],
@@ -11506,7 +11506,7 @@ var songs = [
     {
         "id": 315,
         "title": ["What's up? Pop!"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 22, 31, 37],
         "category": ["Static Image"],
@@ -11530,7 +11530,7 @@ var songs = [
     {
         "id": 316,
         "title": ["ひつじがいっぴき", "Hitsuji ga Ippiki", "One Sheep"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["EN", "JP"],
         "difficulties": [9, 13, 17, 25, 28],
         "category": ["2D MV"],
@@ -11570,7 +11570,7 @@ var songs = [
     {
         "id": 317,
         "title": ["魔法みたいなミュージック！", "Mahou Mitai na Myuujikku!", "Music Like Magic!"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 12, 18, 25, 30],
         "category": ["Original MV"],
@@ -11594,7 +11594,7 @@ var songs = [
     {
         "id": 318,
         "title": ["Sharing The World"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 17, 23, 28],
         "category": ["Static Image"],
@@ -11618,7 +11618,7 @@ var songs = [
     {
         "id": 319,
         "title": ["Decade"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 16, 24, 30],
         "category": ["Static Image"],
@@ -11642,7 +11642,7 @@ var songs = [
     {
         "id": 320,
         "title": ["Booo!"],
-        "bands": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
+        "groups": ["VIRTUAL SINGER", "MORE MORE JUMP!"],
         "server": ["JP"],
         "difficulties": [9, 14, 18, 25, 29],
         "category": ["Static Image"],
@@ -11674,7 +11674,7 @@ var songs = [
     {
         "id": 321,
         "title": ["アトラクトライト", "Atorakutoraito", "Attract Light"],
-        "bands": ["VIRTUAL SINGER", "Leo/need"],
+        "groups": ["VIRTUAL SINGER", "Leo/need"],
         "server": ["JP"],
         "difficulties": [8, 14, 17, 25, 30],
         "category": ["Static Image"],
@@ -11706,7 +11706,7 @@ var songs = [
     {
         "id": 322,
         "title": ["絶え間なく藍色", "Taemanaku Aiiro", "Uninterrupted Indigo"],
-        "bands": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
+        "groups": ["VIRTUAL SINGER", "Vivid BAD SQUAD"],
         "server": ["JP"],
         "difficulties": [6, 12, 17, 24, 28],
         "category": ["Original MV"],
@@ -11738,7 +11738,7 @@ var songs = [
     {
         "id": 323,
         "title": ["快晴", "Kaisei", "Clear Weather"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["JP"],
         "difficulties": [7, 13, 17, 25, 29],
         "category": ["3D MV"],
@@ -11770,7 +11770,7 @@ var songs = [
     {
         "id": 324,
         "title": ["箱庭のコラル", "Hakoniwa no Koraru", "The Miniature Garden's Coral"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["JP"],
         "difficulties": [6, 12, 17, 23, 27],
         "category": ["3D MV"],
@@ -11802,7 +11802,7 @@ var songs = [
     {
         "id": 325,
         "title": ["豚になってyeah yeah", "Buta ni Natte yeah yeah", "Becoming Pigs Yeah Yeah"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [5, 12, 17, 24, 28],
         "category": ["3D MV"],
@@ -11826,7 +11826,7 @@ var songs = [
     {
         "id": 326,
         "title": ["天使の翼。", "Tenshi no Tsubasa."],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 24, 28],
         "category": ["Static Image"],
@@ -11850,7 +11850,7 @@ var songs = [
     {
         "id": 327,
         "title": ["SnowMix♪"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 18, 27, 30],
         "category": ["Original MV"],
@@ -11874,7 +11874,7 @@ var songs = [
     {
         "id": 328,
         "title": ["星界ちゃんと可不ちゃんのおつかい合騒曲", "SEKAI-chan to KAFU-chan no Otsukai Gassoukyoku", "SEKAI-Chan and KAFU-Chan's Otsukai Gassoukyoku"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 14, 20, 29, 32],
         "category": ["Static Image"],
@@ -11898,7 +11898,7 @@ var songs = [
     {
         "id": 329,
         "title": ["ヤミナベ!!!!", "YAMINABE!!!!"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [9, 15, 23, 31, 37],
         "category": ["Static Image"],
@@ -11922,7 +11922,7 @@ var songs = [
     {
         "id": 330,
         "title": ["インタビュア", "Intabyua", "Interviewer"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [6, 12, 16, 23, 26],
         "category": ["Original MV"],
@@ -11946,7 +11946,7 @@ var songs = [
     {
         "id": 331,
         "title": ["39"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [9, 13, 18, 24, 28],
         "category": ["Original MV"],
@@ -11970,7 +11970,7 @@ var songs = [
     {
         "id": 332,
         "title": ["エピローグに君はいない", "Epiroogu ni Kimi wa Inai", "You're Not in the Epilogue"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [5, 11, 16, 23, 26],
         "category": ["Static Image"],
@@ -11994,7 +11994,7 @@ var songs = [
     {
         "id": 333,
         "title": ["Mr. Showtime"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["JP"],
         "difficulties": [9, 14, 19, 26, 30],
         "category": ["2D MV"],
@@ -12034,7 +12034,7 @@ var songs = [
     {
         "id": 334,
         "title": ["Vampire's ∞ pathoS"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [8, 13, 19, 27, 31],
         "category": ["Original MV"],
@@ -12058,7 +12058,7 @@ var songs = [
     {
         "id": 335,
         "title": ["トラッシュ・アンド・トラッシュ！", "Torasshu ando Torasshu!", "TRASH and TRASH!"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [9, 13, 19, 27, 31],
         "category": ["Original MV"],
@@ -12082,7 +12082,7 @@ var songs = [
     {
         "id": 336,
         "title": ["Be The MUSIC!"],
-        "bands": ["Other"],
+        "groups": ["Other"],
         "server": ["JP"],
         "difficulties": [6, 12, 20, 26, 29],
         "category": ["2D MV"],
@@ -12106,7 +12106,7 @@ var songs = [
     {
         "id": 337,
         "title": ["METEOR"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [7, 14, 19, 25, 30],
         "category": ["Static Image"],
@@ -12130,7 +12130,7 @@ var songs = [
     {
         "id": 338,
         "title": ["Where shall we go?"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 16, 21, 26],
         "category": ["Static Image"],
@@ -12154,7 +12154,7 @@ var songs = [
     {
         "id": 339,
         "title": ["glow"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["JP"],
         "difficulties": [5, 11, 17, 22, 27],
         "category": ["3D MV"],
@@ -12186,7 +12186,7 @@ var songs = [
     {
         "id": 340,
         "title": ["とても素敵な六月でした", "Totemo Suteki na Rokugatsu Deshita", "It Was a Very Beautiful June"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["JP"],
         "difficulties": [9, 12, 18, 24, 29],
         "category": ["3D MV"],
@@ -12218,7 +12218,7 @@ var songs = [
     {
         "id": 341,
         "title": ["難聴系男子が倒せない", "Nanchoukei Danshi ga Taosenai", "I Can't Win Against Dense Guys!"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [7, 12, 17, 25, 30],
         "category": ["3D MV"],
@@ -12242,7 +12242,7 @@ var songs = [
     {
         "id": 342,
         "title": ["Blue Star"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 25, 29],
         "category": ["Original MV"],
@@ -12266,7 +12266,7 @@ var songs = [
     {
         "id": 343,
         "title": ["スノーマン", "Sunooman", "Snowman"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [6, 12, 18, 24, 29],
         "category": ["Static Image"],
@@ -12290,7 +12290,7 @@ var songs = [
     {
         "id": 344,
         "title": ["脳内革命ガール", "Nounai Kakumei Gaaru", "Brain Revolution Girl"],
-        "bands": ["Vivid BAD SQUAD"],
+        "groups": ["Vivid BAD SQUAD"],
         "server": ["JP"],
         "difficulties": [9, 13, 18, 27, 31],
         "category": ["3D MV"],
@@ -12322,7 +12322,7 @@ var songs = [
     {
         "id": 345,
         "title": ["演劇", "Engeki", "Theatre"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["JP"],
         "difficulties": [8, 11, 17, 24, 28],
         "category": ["3D MV"],
@@ -12354,7 +12354,7 @@ var songs = [
     {
         "id": 346,
         "title": ["嗚呼、素晴らしきニャン生", "Aa, Subarashiki Nyansei", "Ah, It's a Wonderful Cat Life"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["JP"],
         "difficulties": [8, 13, 18, 24, 29],
         "category": ["Original MV"],
@@ -12386,7 +12386,7 @@ var songs = [
     {
         "id": 347,
         "title": ["円尾坂の仕立屋", "Enbizaka no Shitateya", "The Tailor of Enbizaka"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 12, 16, 24, 28],
         "category": ["Static Image"],
@@ -12410,7 +12410,7 @@ var songs = [
     {
         "id": 348,
         "title": ["悪徳のジャッジメント", "Akutoku no Jajjimento", "Judgment of Corruption"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 17, 24, 28],
         "category": ["Static Image"],
@@ -12434,7 +12434,7 @@ var songs = [
     {
         "id": 349,
         "title": ["悪食娘コンチータ", "Akujiki Musume Konchiita", "Evil Food Eater Conchita"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [7, 13, 19, 26, 29],
         "category": ["Static Image"],
@@ -12458,7 +12458,7 @@ var songs = [
     {
         "id": 350,
         "title": ["眠らせ姫からの贈り物", "Nemurase Hime kara no Okurimono", "Gift from the Princess who Brought Sleep"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 12, 18, 24, 27],
         "category": ["Static Image"],
@@ -12482,7 +12482,7 @@ var songs = [
     {
         "id": 351,
         "title": ["相生", "Aioi", "Twins"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["JP"],
         "difficulties": [6, 13, 18, 22, 27],
         "category": ["2D MV"],
@@ -12514,7 +12514,7 @@ var songs = [
     {
         "id": 352,
         "title": ["命ばっかり", "Inochi Bakkari", "Nothing but Life"],
-        "bands": ["VIRTUAL SINGER", "Nightcord at 25:00"],
+        "groups": ["VIRTUAL SINGER", "Nightcord at 25:00"],
         "server": ["JP"],
         "difficulties": [6, 14, 18, 25, 28],
         "category": ["Static Image"],
@@ -12546,7 +12546,7 @@ var songs = [
     {
         "id": 353,
         "title": ["キティ", "Kiti", "Kitty"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["JP"],
         "difficulties": [6, 13, 20, 28, 31],
         "category": ["2D MV"],
@@ -12586,7 +12586,7 @@ var songs = [
     {
         "id": 354,
         "title": ["セツナトリップ", "Setsuna Torippu", "Momentary Trip"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["JP"],
         "difficulties": [6, 12, 20, 27, 32],
         "category": ["Original MV"],
@@ -12618,7 +12618,7 @@ var songs = [
     {
         "id": 355,
         "title": ["白い雪のプリンセスは", "Shiroi Yuki no Purinsesu wa", "The Snow White Princess"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["JP"],
         "difficulties": [9, 14, 17, 24, 29],
         "category": ["3D MV"],
@@ -12650,7 +12650,7 @@ var songs = [
     {
         "id": 356,
         "title": ["リアライズ", "Riaraizu", "Realize"],
-        "bands": ["Vivid BAD SQUAD"],
+        "groups": ["Vivid BAD SQUAD"],
         "server": ["JP"],
         "difficulties": [7, 13, 19, 25, 29],
         "category": ["3D MV"],
@@ -12682,7 +12682,7 @@ var songs = [
     {
         "id": 357,
         "title": ["ブループラネット", "Buruupuranetto", "Blue Planet"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [8, 13, 19, 26, 30],
         "category": ["3D MV"],
@@ -12706,7 +12706,7 @@ var songs = [
     {
         "id": 358,
         "title": ["心做し", "Kokoronashi", "Somehow"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["JP"],
         "difficulties": [5, 12, 16, 22, 26],
         "category": ["Static Image"],
@@ -12738,7 +12738,7 @@ var songs = [
     {
         "id": 359,
         "title": ["名も無き革命", "Namonaki Kakumei", "Nameless Revolution"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [8, 12, 18, 24, 29],
         "category": ["Static Image"],
@@ -12762,7 +12762,7 @@ var songs = [
     {
         "id": 360,
         "title": ["太陽系デスコ", "Taiyoukei Disuko", "Solar System Disco"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["JP"],
         "difficulties": [7, 13, 17, 23, 28],
         "category": ["Original MV"],
@@ -12794,7 +12794,7 @@ var songs = [
     {
         "id": 361,
         "title": ["きゅうくらりん", "Kyu-Kurarin", "Light-headed"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["JP"],
         "difficulties": [9, 14, 20, 27, 31],
         "category": ["Original MV"],
@@ -12826,7 +12826,7 @@ var songs = [
     {
         "id": 362,
         "title": ["Wonder Style"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 18, 24, 28],
         "category": ["Static Image"],
@@ -12850,7 +12850,7 @@ var songs = [
     {
         "id": 363,
         "title": ["UNDERWATER"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["EN", "JP"],
         "difficulties": [6, 11, 16, 24, 29],
         "category": ["Original MV"],
@@ -12874,7 +12874,7 @@ var songs = [
     {
         "id": 364,
         "title": ["エターナルアリア", "Etaanaru Aria", "Eternal Aria"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [8, 14, 19, 27, 30],
         "category": ["Static Image"],
@@ -12898,7 +12898,7 @@ var songs = [
     {
         "id": 365,
         "title": ["恋は戦争", "Koi wa Sensou", "Love is War"],
-        "bands": ["Vivid BAD SQUAD"],
+        "groups": ["Vivid BAD SQUAD"],
         "server": ["JP"],
         "difficulties": [8, 12, 16, 23, 27],
         "category": ["Static Image"],
@@ -12930,7 +12930,7 @@ var songs = [
     {
         "id": 366,
         "title": ["NEO"],
-        "bands": ["Other"],
+        "groups": ["Other"],
         "server": ["JP"],
         "difficulties": [8, 13, 19, 25, 29, 32],
         "category": ["3D MV", "2D MV"],
@@ -13018,7 +13018,7 @@ var songs = [
     {
         "id": 367,
         "title": ["すきなことだけでいいです", "Sukina Koto Dake de Ii Desu", "All I Need are Things I Like"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["JP"],
         "difficulties": [6, 12, 18, 26, 31],
         "category": ["3D MV"],
@@ -13050,7 +13050,7 @@ var songs = [
     {
         "id": 368,
         "title": ["アイムマイン", "Aimumain", "I'm Mine"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [6, 13, 19, 25, 29],
         "category": ["3D MV"],
@@ -13074,7 +13074,7 @@ var songs = [
     {
         "id": 369,
         "title": ["メランコリック", "Merankorikku", "Melancholic"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["JP"],
         "difficulties": [6, 13, 16, 24, 27],
         "category": ["Original MV"],
@@ -13106,7 +13106,7 @@ var songs = [
     {
         "id": 370,
         "title": ["人生", "Jinsei", "Our Life"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [9, 14, 23, 31, 37],
         "category": ["Static Image"],
@@ -13130,7 +13130,7 @@ var songs = [
     {
         "id": 372,
         "title": ["天樂", "Tengaku", "Heaven's Song"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["JP"],
         "difficulties": [9, 13, 18, 25, 29],
         "category": ["Original MV"],
@@ -13162,7 +13162,7 @@ var songs = [
     {
         "id": 373,
         "title": ["下剋上", "Gekokujou", "Overthrow"],
-        "bands": ["Vivid BAD SQUAD"],
+        "groups": ["Vivid BAD SQUAD"],
         "server": ["JP"],
         "difficulties": [8, 12, 18, 24, 30],
         "category": ["2D MV"],
@@ -13202,7 +13202,7 @@ var songs = [
     {
         "id": 374,
         "title": ["チームメイト", "Chiimu Meito", "Teammate"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["JP"],
         "difficulties": [8, 12, 18, 24, 30],
         "category": ["2D MV"],
@@ -13234,7 +13234,7 @@ var songs = [
     {
         "id": 375,
         "title": ["星を繋ぐ", "Hoshi wo Tsunagu", "Connecting the Stars"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["JP"],
         "difficulties": [7, 12, 18, 24, 28],
         "category": ["2D MV"],
@@ -13274,7 +13274,7 @@ var songs = [
     {
         "id": 376,
         "title": ["我儘姫", "Wagamama Hime", "Selfish Princess"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["JP"],
         "difficulties": [6, 11, 18, 26, 30],
         "category": ["Static Image"],
@@ -13306,7 +13306,7 @@ var songs = [
     {
         "id": 377,
         "title": ["悪役にキスシーンを", "Akuyaku ni Kiss Scene wo", "Kiss the Villain"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["JP"],
         "difficulties": [6, 12, 18, 25, 29],
         "category": ["3D MV"],
@@ -13338,7 +13338,7 @@ var songs = [
     {
         "id": 378,
         "title": ["スロウダウナー", "Suroudaunaa", "Slow Downer"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["JP"],
         "difficulties": [8, 13, 18, 26, 30],
         "category": ["Original MV"],
@@ -13370,7 +13370,7 @@ var songs = [
     {
         "id": 379,
         "title": ["ずんだパーリナイ", "Zunda Paarinai", "Zunda Party Night"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [7, 13, 19, 27, 31],
         "category": ["Static Image"],
@@ -13394,7 +13394,7 @@ var songs = [
     {
         "id": 380,
         "title": ["スターダストメドレー", "Sutaadasuto Medoree", "Stardust Medley"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [7, 13, 20, 26, 30],
         "category": ["Static Image"],
@@ -13418,7 +13418,7 @@ var songs = [
     {
         "id": 381,
         "title": ["新人類", "Shinjinrui", "New Human Race"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [6, 13, 19, 27, 31],
         "category": ["Static Image"],
@@ -13442,7 +13442,7 @@ var songs = [
     {
         "id": 382,
         "title": ["心拍ペアリング", "Shinpaku Peeringu", "Heartbeat Pairing"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [6, 11, 17, 23, 28],
         "category": ["Static Image"],
@@ -13466,7 +13466,7 @@ var songs = [
     {
         "id": 383,
         "title": ["purpose"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["JP"],
         "difficulties": [6, 12, 18, 24, 28],
         "category": ["3D MV", "2D MV"],
@@ -13514,7 +13514,7 @@ var songs = [
     {
         "id": 384,
         "title": ["トワイライトライト", "Towairaitoraito", "Twilight Light"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["JP"],
         "difficulties": [8, 13, 17, 22, 26],
         "category": ["3D MV", "2D MV"],
@@ -13554,7 +13554,7 @@ var songs = [
     {
         "id": 385,
         "title": ["神っぽいな", "Kamippoi na", "God-ish"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["JP"],
         "difficulties": [6, 13, 18, 25, 29],
         "category": ["Original MV"],
@@ -13586,7 +13586,7 @@ var songs = [
     {
         "id": 386,
         "title": ["キラピピ★キラピカ", "Kirapipi★Kirapika", "Shining★Sparkling"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["JP"],
         "difficulties": [7, 11, 16, 23, 27],
         "category": ["2D MV"],
@@ -13634,7 +13634,7 @@ var songs = [
     {
         "id": 390,
         "title": ["Dear"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [6, 12, 17, 23, 28],
         "category": ["Static Image"],
@@ -13658,7 +13658,7 @@ var songs = [
     {
         "id": 391,
         "title": ["キュートなカノジョ", "Kyuuto na Kanojo", "Cute Girlfriend"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["JP"],
         "difficulties": [7, 13, 17, 26, 30],
         "category": ["Original MV"],
@@ -13690,7 +13690,7 @@ var songs = [
     {
         "id": 392,
         "title": ["春嵐", "Shunran", "Spring Storm"],
-        "bands": ["Vivid BAD SQUAD"],
+        "groups": ["Vivid BAD SQUAD"],
         "server": ["JP"],
         "difficulties": [6, 14, 20, 27, 30],
         "category": ["Original MV"],
@@ -13722,7 +13722,7 @@ var songs = [
     {
         "id": 393,
         "title": ["Un-Lock"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [6, 12, 18, 24, 28],
         "category": ["Static Image"],
@@ -13746,7 +13746,7 @@ var songs = [
     {
         "id": 394,
         "title": ["ボトルケーキ", "Botorukeeki", "Bottle Cake"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [5, 11, 16, 24, 28],
         "category": ["Static Image"],
@@ -13770,7 +13770,7 @@ var songs = [
     {
         "id": 395,
         "title": ["サマータイムレコード", "Samaataimu Rekoodo", "Summertime Record"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["JP"],
         "difficulties": [9, 13, 19, 24, 28],
         "category": ["Static Image"],
@@ -13802,7 +13802,7 @@ var songs = [
     {
         "id": 397,
         "title": ["フィラメントフィーバー", "Firamentofiba", "Filament Fever"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["JP"],
         "difficulties": [6, 13, 18, 25, 29],
         "category": ["3D MV", "2D MV"],
@@ -13850,7 +13850,7 @@ var songs = [
     {
         "id": 398,
         "title": ["Beyond the way"],
-        "bands": ["Vivid BAD SQUAD"],
+        "groups": ["Vivid BAD SQUAD"],
         "server": ["JP"],
         "difficulties": [7, 13, 17, 25, 28],
         "category": ["3D MV", "2D MV"],
@@ -13882,7 +13882,7 @@ var songs = [
     {
         "id": 399,
         "title": ["Disco No.39"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [6, 13, 19, 26, 30],
         "category": ["Static Image"],
@@ -13906,7 +13906,7 @@ var songs = [
     {
         "id": 400,
         "title": ["我らステインバスターズ!", "Warera Sutein Basutaazu!", "We Are the Stain Busters!"],
-        "bands": ["MORE MORE JUMP!", "Other"],
+        "groups": ["MORE MORE JUMP!", "Other"],
         "server": ["JP"],
         "difficulties": [6, 12, 17, 24, 28],
         "category": ["2D MV"],
@@ -13938,7 +13938,7 @@ var songs = [
     {
         "id": 401,
         "title": ["まにまに", "Manimani", "At the Mercy"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [7, 13, 19, 25, 29],
         "category": ["Original MV"],
@@ -13962,7 +13962,7 @@ var songs = [
     {
         "id": 402,
         "title": ["エンヴィーベイビー", "Envii Beibii", "Envy Baby"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["JP"],
         "difficulties": [7, 13, 17, 23, 28],
         "category": ["3D MV"],
@@ -13994,7 +13994,7 @@ var songs = [
     {
         "id": 403,
         "title": ["番凩", "Tsugai Kogarashi", "Pair of Wintry Winds"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [6, 12, 17, 24, 27],
         "category": ["Static Image"],
@@ -14018,7 +14018,7 @@ var songs = [
     {
         "id": 405,
         "title": ["MOTTO!!!"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["JP"],
         "difficulties": [6, 11, 16, 23, 27],
         "category": ["3D MV", "2D MV"],
@@ -14050,7 +14050,7 @@ var songs = [
     {
         "id": 406,
         "title": ["ARQETYPE"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [9, 14, 21, 27, 31],
         "category": ["Static Image"],
@@ -14074,7 +14074,7 @@ var songs = [
     {
         "id": 407,
         "title": ["初めての恋が終わる時", "Hajimete no Koi ga Owaru Toki", "When the First Love Ends"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["JP"],
         "difficulties": [8, 12, 17, 25, 29],
         "category": ["Static Image"],
@@ -14106,7 +14106,7 @@ var songs = [
     {
         "id": 408,
         "title": ["CIRCUS PANIC!!!"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [6, 13, 19, 27, 32],
         "category": ["Static Image"],
@@ -14130,7 +14130,7 @@ var songs = [
     {
         "id": 409,
         "title": ["25時の情熱", "Nijuugoji no Jounetsu", "Passion at 25:00"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["JP"],
         "difficulties": [5, 11, 17, 22, 25],
         "category": ["3D MV", "2D MV"],
@@ -14170,7 +14170,7 @@ var songs = [
     {
         "id": 410,
         "title": ["マーシャル・マキシマイザー", "Maasharu Makishimaizaa", "Marshall Maximizer"],
-        "bands": ["Vivid BAD SQUAD"],
+        "groups": ["Vivid BAD SQUAD"],
         "server": ["JP"],
         "difficulties": [9, 14, 18, 26, 29],
         "category": ["3D MV"],
@@ -14202,7 +14202,7 @@ var songs = [
     {
         "id": 411,
         "title": ["世界を照らすテトラッド", "Sekai wo Terasu Tetoraddo", "The Tetrad that Illuminates the World"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["JP"],
         "difficulties": [7, 13, 20, 27, 31],
         "category": ["3D MV", "2D MV"],
@@ -14242,7 +14242,7 @@ var songs = [
     {
         "id": 412,
         "title": ["デビルじゃないもん", "Debiru Janai Mon", "(Not) A Devil"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [7, 12, 19, 26, 29],
         "category": ["Original MV"],
@@ -14266,7 +14266,7 @@ var songs = [
     {
         "id": 413,
         "title": ["さよならプリンセス", "Sayonara Prinsesu", "Goodbye Princess"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["JP"],
         "difficulties": [8, 14, 19, 26, 30],
         "category": ["Original MV"],
@@ -14298,7 +14298,7 @@ var songs = [
     {
         "id": 414,
         "title": ["HERO"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [8, 13, 19, 26, 31],
         "category": ["Original MV"],
@@ -14322,7 +14322,7 @@ var songs = [
     {
         "id": 415,
         "title": ["ラッキー☆オーブ", "Rakkii☆Oobu", "Lucky☆Orb"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [5, 11, 17, 24, 28],
         "category": ["Original MV"],
@@ -14346,7 +14346,7 @@ var songs = [
     {
         "id": 416,
         "title": ["limbo"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [8, 13, 19, 26, 31],
         "category": ["Static Image"],
@@ -14370,7 +14370,7 @@ var songs = [
     {
         "id": 417,
         "title": ["くうになる", "Kuu ni Naru", "Becoming Empty"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["JP"],
         "difficulties": [7, 13, 18, 24, 29],
         "category": ["Original MV"],
@@ -14402,7 +14402,7 @@ var songs = [
     {
         "id": 418,
         "title": ["金木犀", "Kinmokusei", "Osmanthus"],
-        "bands": ["Vivid BAD SQUAD"],
+        "groups": ["Vivid BAD SQUAD"],
         "server": ["JP"],
         "difficulties": [6, 12, 17, 26, 29],
         "category": ["Original MV"],
@@ -14434,7 +14434,7 @@ var songs = [
     {
         "id": 421,
         "title": ["CR詠ZY", "CReiZy", "CRaZY"],
-        "bands": ["Vivid BAD SQUAD"],
+        "groups": ["Vivid BAD SQUAD"],
         "server": ["JP"],
         "difficulties": [5, 13, 19, 24, 28],
         "category": ["2D MV"],
@@ -14474,7 +14474,7 @@ var songs = [
     {
         "id": 422,
         "title": ["JUMPIN’ OVER !"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["JP"],
         "difficulties": [7, 12, 17, 24, 28],
         "category": ["3D MV", "2D MV"],
@@ -14506,7 +14506,7 @@ var songs = [
     {
         "id": 423,
         "title": ["レグルス", "Regurusu", "Regulus"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["JP"],
         "difficulties": [6, 12, 18, 26, 29, 29],
         "category": ["3D MV", "2D MV"],
@@ -14546,7 +14546,7 @@ var songs = [
     {
         "id": 424,
         "title": ["インテグラル", "Integeguraru", "Integral"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["JP"],
         "difficulties": [8, 12, 16, 28],
         "category": ["3D MV", "2D MV"],
@@ -14586,7 +14586,7 @@ var songs = [
     {
         "id": 425,
         "title": ["Cool Me Down"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [7, 13, 19, 25, 29],
         "category": ["Static Image"],
@@ -14610,7 +14610,7 @@ var songs = [
     {
         "id": 426,
         "title": ["On&On"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [6, 12, 18, 23, 27],
         "category": ["Static Image"],
@@ -14634,7 +14634,7 @@ var songs = [
     {
         "id": 429,
         "title": ["はぐ", "Hagu", "Hug"],
-        "bands": ["MORE MORE JUMP!"],
+        "groups": ["MORE MORE JUMP!"],
         "server": ["JP"],
         "difficulties": [6, 13, 18, 24, 29],
         "category": ["2D MV"],
@@ -14674,7 +14674,7 @@ var songs = [
     {
         "id": 430,
         "title": ["んっあっあっ。", "N-Aa-Aa.", "Nh-Uh-Uh."],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [6, 13, 18, 24, 28],
         "category": ["Original MV"],
@@ -14698,7 +14698,7 @@ var songs = [
     {
         "id": 432,
         "title": ["強風オールバック", "Kyoufuu Oorubakku", "Hair Swept Back By Gale-Force Winds"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["JP"],
         "difficulties": [6, 13, 17, 24, 28],
         "category": ["Original MV"],
@@ -14730,7 +14730,7 @@ var songs = [
     {
         "id": 433,
         "title": ["ヒアソビ", "Hiasobi", "Play With Fire"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [9, 13, 18, 27, 31],
         "category": ["Original MV"],
@@ -14754,7 +14754,7 @@ var songs = [
     {
         "id": 435,
         "title": ["リレイアウター", "Rireiautaa", "Relay Outer"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [7, 13, 18, 26, 30],
         "category": ["Static Image"],
@@ -14778,7 +14778,7 @@ var songs = [
     {
         "id": 436,
         "title": ["古書屋敷殺人事件", "Kosho Yashiki Satsujin Jiken", "Murder Case at The Mansion of Antiquarian Books"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["JP"],
         "difficulties": [6, 12, 18, 24, 28],
         "category": ["Static Image"],
@@ -14810,7 +14810,7 @@ var songs = [
     {
         "id": 437,
         "title": ["え？あぁ、そう。", "E? Aa, Sou.", "Hm? Ah, Yes."],
-        "bands": ["Vivid BAD SQUAD"],
+        "groups": ["Vivid BAD SQUAD"],
         "server": ["JP"],
         "difficulties": [8, 12, 18, 25, 30],
         "category": ["Static Image"],
@@ -14842,7 +14842,7 @@ var songs = [
     {
         "id": 438,
         "title": ["ハイドアンド・シーク", "Haidoando Shiiku", "Hide and Seek"],
-        "bands": ["Leo/need"],
+        "groups": ["Leo/need"],
         "server": ["JP"],
         "difficulties": [7, 12, 17, 24, 28],
         "category": ["Static Image"],
@@ -14874,7 +14874,7 @@ var songs = [
     {
         "id": 439,
         "title": ["一千光年", "Iseen Kounen", "1000 Light Years"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [8, 13, 18, 25, 30, 31],
         "category": ["Original MV"],
@@ -14898,7 +14898,7 @@ var songs = [
     {
         "id": 440,
         "title": ["ショータイム×オーディエンス", "Shootaimu×Oodiensu", "Showtime×Audience"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [9, 14, 18, 25, 30],
         "category": ["Static Image"],
@@ -14922,7 +14922,7 @@ var songs = [
     {
         "id": 444,
         "title": ["心泥夢(syndrome)", "shindoromu", "syndrome"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [7, 12, 19, 27, 31],
         "category": ["Static Image"],
@@ -14946,7 +14946,7 @@ var songs = [
     {
         "id": 446,
         "title": ["オーバーコード", "Oobaakoodo", "Overcode"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [5, 12, 18, 26, 30],
         "category": ["Static Image"],
@@ -14970,7 +14970,7 @@ var songs = [
     {
         "id": 447,
         "title": ["folern"],
-        "bands": ["Other"],
+        "groups": ["Other"],
         "server": ["JP"],
         "difficulties": [9, 12, 21, 30, 32, 35],
         "category": ["Static Image"],
@@ -14994,7 +14994,7 @@ var songs = [
     {
         "id": 448,
         "title": ["Sage"],
-        "bands": ["Other"],
+        "groups": ["Other"],
         "server": ["JP"],
         "difficulties": [9, 13, 21, 29, 32, 35],
         "category": ["Static Image"],
@@ -15018,7 +15018,7 @@ var songs = [
     {
         "id": 449,
         "title": ["MarbleBlue."],
-        "bands": ["Other"],
+        "groups": ["Other"],
         "server": ["JP"],
         "difficulties": [9, 14, 21, 31, 33, 36],
         "category": ["Static Image"],
@@ -15042,7 +15042,7 @@ var songs = [
     {
         "id": 452,
         "title": ["サイバーパンクデッドボーイ", "Saibaapanku Deddobooi", "Cyber Punk Dead Boy"],
-        "bands": ["Wonderlands x Showtime"],
+        "groups": ["Wonderlands x Showtime"],
         "server": ["JP"],
         "difficulties": [7, 13, 19, 27, 30],
         "category": ["2D MV"],
@@ -15074,7 +15074,7 @@ var songs = [
     {
         "id": 455,
         "title": ["ド屑", "Dokuzu", "Scum of the Earth"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["JP"],
         "difficulties": [5, 12, 18, 25, 28],
         "category": ["Original MV"],
@@ -15106,7 +15106,7 @@ var songs = [
     {
         "id": 461,
         "title": ["おどロボ", "Odorobo", "Dance Robo"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [6, 13, 18, 24, 29],
         "category": ["Static Image"],
@@ -15130,7 +15130,7 @@ var songs = [
     {
         "id": 463,
         "title": ["ハッピーチートデー", "Happiichiitodee", "Happy Cheat Day"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [5, 12, 17, 23, 26],
         "category": ["Original MV"],
@@ -15154,7 +15154,7 @@ var songs = [
     {
         "id": 468,
         "title": ["十六歳の心臓", "Juurokusai no Shinzou", "16-year Old Heart"],
-        "bands": ["VIRTUAL SINGER"],
+        "groups": ["VIRTUAL SINGER"],
         "server": ["JP"],
         "difficulties": [8, 14, 20, 27, 31],
         "category": ["Static Image"],
@@ -15178,7 +15178,7 @@ var songs = [
     {
         "id": 469,
         "title": ["ラグトレイン", "Ragu Torein", "Lag Train"],
-        "bands": ["Nightcord at 25:00"],
+        "groups": ["Nightcord at 25:00"],
         "server": ["JP"],
         "difficulties": [6, 13, 16, 23, 27, 25],
         "category": ["Original MV"],

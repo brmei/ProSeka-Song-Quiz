@@ -1,9 +1,11 @@
 // GLOBAL VARIABLES
-var waitingImage = "https://cdn.discordapp.com/attachments/1048432304575500320/1077849449876951111/image.png";
+var waitingImage = "https://i.imgur.com/8Z2MRAL.png";
+var bgImage = "https://i.imgur.com/usq9jVJ.png"
 preloadImage(waitingImage);
+preloadImage(bgImage);
 updateWindow();
 // maps for data
-var bandsToListMap = {
+var groupsToListMap = {
     "VIRTUAL SINGER": 1,
     "Leo/need": 2,
     "MORE MORE JUMP!": 3,
@@ -85,7 +87,7 @@ function readInputs() {
         // filtering options
         "duplicates": $("#duplicates").is(":checked"),
         "filterCoversBySingers": $("#filterCoversBySingers").is(":checked"),
-        "matchAllBands": $("#matchAllBands").is(":checked"),
+        "matchAllGroups": $("#matchAllGroups").is(":checked"),
         "matchAllSingers": $("#matchAllSingers").is(":checked"),
         // song selection
         "serverEN": $("#serverEN").is(":checked"), // servers
@@ -95,13 +97,13 @@ function readInputs() {
         "versionCoversOn": $("#versionCoversOn").is(":checked"),
         "versionSpecial": $("#versionSpecial").is(":checked"),
         "versionInst": $("#versionInst").is(":checked"),
-        "bandOther": $("#bandOther").is(":checked"), // bands
-        "bandVS": $("#bandVS").is(":checked"),
-        "bandLN": $("#bandLN").is(":checked"),
-        "bandMMJ": $("#bandMMJ").is(":checked"),
-        "bandVBS": $("#bandVBS").is(":checked"),
-        "bandWXS": $("#bandWXS").is(":checked"),
-        "band25JI": $("#band25JI").is(":checked"), // vocalists
+        "groupOther": $("#groupOther").is(":checked"), // groups
+        "groupVS": $("#groupVS").is(":checked"),
+        "groupLN": $("#groupLN").is(":checked"),
+        "groupMMJ": $("#groupMMJ").is(":checked"),
+        "groupVBS": $("#groupVBS").is(":checked"),
+        "groupWXS": $("#groupWXS").is(":checked"),
+        "group25JI": $("#group25JI").is(":checked"), // vocalists
         "vocalOther": $("#vocalOther").is(":checked"),
         "vocalMiku": $("#vocalMiku").is(":checked"),
         "vocalRin": $("#vocalRin").is(":checked"),
@@ -146,11 +148,11 @@ function mapList(list, map) {
     return indexes;
 }
 
-// takes gamesetting and applies a standard order to band booleans
-function bandsToBitmask(GameSetting) {
+// takes gamesetting and applies a standard order to group booleans
+function groupsToBitmask(GameSetting) {
     var mask = [];
-    mask.push(GameSetting.bandOther, GameSetting.bandVS, GameSetting.bandLN, GameSetting.bandMMJ,
-        GameSetting.bandVBS, GameSetting.bandWXS, GameSetting.band25JI);
+    mask.push(GameSetting.groupOther, GameSetting.groupVS, GameSetting.groupLN, GameSetting.groupMMJ,
+        GameSetting.groupVBS, GameSetting.groupWXS, GameSetting.group25JI);
     return mask;
 }
 
@@ -214,16 +216,16 @@ function songFilter(song, GameSetting) {
         return null;
     }
 
-    // check band
-    var bandIndices = mapList(song.bands, bandsToListMap);
-    var bandMask = bandsToBitmask(GameSetting);
+    // check group
+    var groupIndices = mapList(song.groups, groupsToListMap);
+    var groupMask = groupsToBitmask(GameSetting);
 
-    if (GameSetting.matchAllBands) {
-        if(!filterListAll(bandMask, bandIndices)) {
+    if (GameSetting.matchAllGroups) {
+        if(!filterListAll(groupMask, groupIndices)) {
             return null;
         }
     } else {
-        if(!filterListAny(bandMask, bandIndices)) {
+        if(!filterListAny(groupMask, groupIndices)) {
             return null;
         }
     }
@@ -314,7 +316,7 @@ function findSongs(songs, filter, GameSetting) {
 function updateSongPanel(selection) {
     $("#songPanelId").text(selection.song.id);
     $("#songPanelTitle").text(selection.song.title.join(', '));
-    $("#songPanelBand").text(selection.song.bands.join(', '));
+    $("#songPanelGroup").text(selection.song.groups.join(', '));
     $("#songPanelServer").text(selection.song.server.join(', '));
     $("#songPanelDifficulty").text(selection.song.difficulties.join(', '));
     $("#songPanelCategory").text(selection.song.category.join(', '));
