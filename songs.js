@@ -11947,7 +11947,7 @@ var songs = [
         "id": 331,
         "title": ["39"],
         "groups": ["VIRTUAL SINGER"],
-        "server": ["JP"],
+        "server": ["EN", "JP"],
         "difficulties": [9, 13, 18, 24, 28],
         "category": ["Original MV"],
         "time": 143.4,
@@ -15203,6 +15203,54 @@ var songs = [
                 "singers": ["MEIKO", "Yoisaki Kanade", "Mochizuki Honami"],
                 "links": [
                     "https://static.wikia.nocookie.net/projectsekai/images/1/16/Lag_Train_%28Game_Version_-_25-ji%2C_Nightcord_de%29.ogg/revision/latest?cb=20240229193101"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 470,
+        "title": ["ハジメテノオト", "Hajimete no Oto", "The First Melody"],
+        "groups": ["VIRTUAL SINGER"],
+        "server": ["JP"],
+        "difficulties": [5, 12, 16, 23, 26],
+        "category": ["Static Image"],
+        "time": 129,
+        "arranger": "malo",
+        "composer": "malo",
+        "lyricist": "malo",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_470_rip/jacket_s_470.webp",
+        "audio": [
+            {
+                "title": "Hajimete no Oto (Game Version)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Hatsune Miku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/8/8a/Hajimete_no_Oto_%28Game_Version_-_Original%29.ogg/revision/latest?cb=20240309125010"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 481,
+        "title": ["明鏡止水", "Meikyoushisui"],
+        "groups": ["VIRTUAL SINGER"],
+        "server": ["JP"],
+        "difficulties": [7, 12, 18, 23, 28],
+        "category": ["Static Image"],
+        "time": 123,
+        "arranger": "Tabiji",
+        "composer": "Tabiji",
+        "lyricist": "Tabiji",
+        "dance members": [],
+        "image": "https://storage.sekai.best/sekai-assets/music/jacket/jacket_s_481_rip/jacket_s_481.webp",
+        "audio": [
+            {
+                "title": "Meikyoushisui (Game Version - VIRTUAL SINGER)",
+                "version": "VIRTUAL SINGER",
+                "singers": ["Hatsune Miku"],
+                "links": [
+                    "https://static.wikia.nocookie.net/projectsekai/images/2/2b/Meikyoushisui_%28Game_Version_-_VIRTUAL_SINGER%29.ogg/revision/latest?cb=20240309105706"
                 ]
             }
         ]
